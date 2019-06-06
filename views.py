@@ -11,7 +11,7 @@ import sys
 from ComputerContest_BigData_EMR.preprocess import get_EMR_df_norm
 from ComputerContest_BigData_EMR.get_split import get_split_df
 from ComputerContest_BigData_EMR.get_value import get_value_df
-sys.path.append(r".\ComputerContest_BigData_EMR")
+sys.path.append(r"./ComputerContest_BigData_EMR")
 
 app = Flask(__name__)
 
@@ -296,7 +296,7 @@ def output():
     filename = "{}.csv".format(tables[0])
     if os.path.exists(filename):
         print("this is output**********")
-        return send_from_directory(r'.\\', filename, as_attachment=True)
+        return send_from_directory(r'./', filename, as_attachment=True)
 
 
 @app.route('/show_image/')

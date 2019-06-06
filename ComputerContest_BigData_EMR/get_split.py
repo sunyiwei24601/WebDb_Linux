@@ -1,7 +1,7 @@
 import re
 import pandas as pd
 import jieba
-jieba.load_userdict('ComputerContest_BigData_EMR\my_dict.txt')
+jieba.load_userdict('ComputerContest_BigData_EMR/my_dict.txt')
 from pandas import DataFrame
 # path=r'../EMR_result/EMR_df_norm.csv'
 # EMR_df=pd.read_csv(path,encoding='gb2312')
