@@ -236,6 +236,8 @@ def importTable():
         value_df = get_value_df("UTF-8")
         #fileDataframe = pd.DataFrame.from_csv(inputfile, encoding=f_charInfo['encoding'])
         value_df.drop(["其他"], axis=1)
+        print(value_df.columns)
+
         dffile = 'tempDfXXX.csv'
         value_df.to_csv(dffile, index=False)
         
@@ -263,7 +265,7 @@ def importTable():
         get_split_df()
         value_df = get_value_df("UTF-8")
         value_df.drop(["其他"], axis=1)
-
+        print(value_df.columns)
         #fileDataframe = pd.DataFrame.from_csv(inputfile, encoding=f_charInfo['encoding'])
         dffile = 'tempDfXXX.csv'
         value_df.to_csv(dffile, index=False)
