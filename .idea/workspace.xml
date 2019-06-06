@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a402df60-1fae-468a-a7e3-4bacfb8c0145" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/show_plot.py" beforeDir="false" afterPath="$PROJECT_DIR$/show_plot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/images.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/images.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/records.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/records.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,11 +60,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="304" column="40" lean-forward="true" selection-start-line="304" selection-start-column="40" selection-end-line="304" selection-end-column="40" />
+            <state relative-caret-position="105">
+              <caret line="293" column="22" lean-forward="true" selection-start-line="293" selection-start-column="22" selection-end-line="293" selection-end-column="22" />
               <folding>
                 <element signature="e#14#28#0" expanded="true" />
               </folding>
@@ -78,14 +75,30 @@
       <file leaf-file-name="images.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/images.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="483" column="58" lean-forward="true" selection-start-line="483" selection-start-column="58" selection-end-line="483" selection-end-column="58" />
+            <state relative-caret-position="339">
+              <caret line="484" column="27" lean-forward="true" selection-start-line="475" selection-start-column="19" selection-end-line="484" selection-end-column="27" />
               <folding>
                 <element signature="e#15671#15677#0#HTML" expanded="true" />
                 <element signature="e#15677#15683#0#HTML" expanded="true" />
                 <element signature="e#15683#15689#0#HTML" expanded="true" />
                 <element signature="e#15689#15695#0#HTML" expanded="true" />
                 <element signature="e#15809#15815#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="records.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/records.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="507" column="33" lean-forward="true" selection-start-line="507" selection-start-column="33" selection-end-line="507" selection-end-column="33" />
+              <folding>
+                <element signature="e#16337#16343#0#HTML" expanded="true" />
+                <element signature="e#16343#16349#0#HTML" expanded="true" />
+                <element signature="e#16349#16355#0#HTML" expanded="true" />
+                <element signature="e#16355#16361#0#HTML" expanded="true" />
+                <element signature="e#16454#16460#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -137,6 +150,7 @@
       <find>addR</find>
       <find>render</find>
       <find>dir</find>
+      <find>req</find>
       <find>output</find>
     </findStrings>
   </component>
@@ -152,12 +166,12 @@
         <option value="$PROJECT_DIR$/ComputerContest_BigData_EMR/get_split.py" />
         <option value="$PROJECT_DIR$/dataHandler.py" />
         <option value="$PROJECT_DIR$/static/js/check.js" />
-        <option value="$PROJECT_DIR$/templates/records.html" />
         <option value="$PROJECT_DIR$/dbHandler.py" />
         <option value="$PROJECT_DIR$/show_plot.py" />
         <option value="$PROJECT_DIR$/run.py" />
         <option value="$PROJECT_DIR$/templates/images.html" />
         <option value="$PROJECT_DIR$/views.py" />
+        <option value="$PROJECT_DIR$/templates/records.html" />
       </list>
     </option>
   </component>
@@ -490,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1558959076219</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="merge two systems together and add function of different types of file">
+      <created>1559833755593</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1559833755593</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -506,7 +527,7 @@
       <window_info anchor="right" id="Mongo Explorer" order="3" weight="0.32955465" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.16876122" />
       <window_info anchor="right" id="JSON Viewer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17894737" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17894737" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.23238866" />
       <window_info anchor="right" id="SciView" order="3" weight="0.3165992" />
@@ -883,33 +904,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/records.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/show_plot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/images.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="483" column="58" lean-forward="true" selection-start-line="483" selection-start-column="58" selection-end-line="483" selection-end-column="58" />
-          <folding>
-            <element signature="e#15671#15677#0#HTML" expanded="true" />
-            <element signature="e#15677#15683#0#HTML" expanded="true" />
-            <element signature="e#15683#15689#0#HTML" expanded="true" />
-            <element signature="e#15689#15695#0#HTML" expanded="true" />
-            <element signature="e#15809#15815#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -926,10 +926,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="304" column="40" lean-forward="true" selection-start-line="304" selection-start-column="40" selection-end-line="304" selection-end-column="40" />
+        <state relative-caret-position="105">
+          <caret line="293" column="22" lean-forward="true" selection-start-line="293" selection-start-column="22" selection-end-line="293" selection-end-column="22" />
           <folding>
             <element signature="e#14#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/images.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="484" column="27" lean-forward="true" selection-start-line="475" selection-start-column="19" selection-end-line="484" selection-end-column="27" />
+          <folding>
+            <element signature="e#15671#15677#0#HTML" expanded="true" />
+            <element signature="e#15677#15683#0#HTML" expanded="true" />
+            <element signature="e#15683#15689#0#HTML" expanded="true" />
+            <element signature="e#15689#15695#0#HTML" expanded="true" />
+            <element signature="e#15809#15815#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/records.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="507" column="33" lean-forward="true" selection-start-line="507" selection-start-column="33" selection-end-line="507" selection-end-column="33" />
+          <folding>
+            <element signature="e#16337#16343#0#HTML" expanded="true" />
+            <element signature="e#16343#16349#0#HTML" expanded="true" />
+            <element signature="e#16349#16355#0#HTML" expanded="true" />
+            <element signature="e#16355#16361#0#HTML" expanded="true" />
+            <element signature="e#16454#16460#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>

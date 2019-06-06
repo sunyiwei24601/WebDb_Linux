@@ -498,9 +498,13 @@
 
 
                     <div>
-                        正在导出数据.....（目前默认格式为UTF-8编码的CSV格式）
+                        请选择输出CSV文件的格式:
                     </div>
                     <form action="{{ url_for("output") }}" method="get">
+                        <div class="condition">
+                            <input type="radio" name='select_fields' value="UTF-8"> UTF-8 &nbsp;&nbsp;&nbsp;&nbsp;
+                            <input type="radio" name='select_fields' value="GB2312"> GB2312 &nbsp;&nbsp;&nbsp;&nbsp;
+                        </div>
                       <input type="submit" value="确定导出" />
                     </form>
                 </div>
