@@ -6,6 +6,7 @@ from sql import DB_NAME
 import sys
 sys.path.append(r"./ComputerContest_BigData_EMR")
 
+
 def init_env():
     webdb.secret_key = 'chEb0a69cf(b19e6f282d501,g8b'
     if not os.path.exists(DB_NAME):

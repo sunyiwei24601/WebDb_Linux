@@ -294,10 +294,12 @@ def dropTable():
 @app.route('/output/')
 def output():
     tables = session.get('tables', [])
+    coding = list(request.args.values())[0]
     print("this is output process", tables)
+    print("this is choosing the encoding format:", coding)
     with DbHandler(DB_NAME) as db:
         pd_csv = pd.read_sql("select * from {table}".format(table=tables[0]), db.conn)
-        pd_csv.to_csv("{}.csv".format(tables[0]))
+        pd_csv.to_csv("{}.csv".format(tables[0]), encoding = coding)
     filename = "{}.csv".format(tables[0])
     if os.path.exists(filename):
         print("this is output**********")
