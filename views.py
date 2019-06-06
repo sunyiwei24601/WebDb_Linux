@@ -235,7 +235,7 @@ def importTable():
         get_split_df()
         value_df = get_value_df("UTF-8")
         #fileDataframe = pd.DataFrame.from_csv(inputfile, encoding=f_charInfo['encoding'])
-        value_df.drop(["其他"], axis=1)
+        value_df = value_df.drop(["其他"], axis=1)
         print(value_df.columns)
 
         dffile = 'tempDfXXX.csv'
@@ -264,7 +264,7 @@ def importTable():
         get_EMR_df_norm(pd_csv_file, f_charInfo['encoding'])
         get_split_df()
         value_df = get_value_df("UTF-8")
-        value_df.drop(["其他"], axis=1)
+        value_df = value_df.drop(["其他"], axis=1)
         print(value_df.columns)
         #fileDataframe = pd.DataFrame.from_csv(inputfile, encoding=f_charInfo['encoding'])
         dffile = 'tempDfXXX.csv'
