@@ -262,6 +262,8 @@ def importTable():
         get_EMR_df_norm(pd_csv_file, f_charInfo['encoding'])
         get_split_df()
         value_df = get_value_df("UTF-8")
+        value_df.drop(["其他"], axis=1)
+
         #fileDataframe = pd.DataFrame.from_csv(inputfile, encoding=f_charInfo['encoding'])
         dffile = 'tempDfXXX.csv'
         value_df.to_csv(dffile, index=False)
