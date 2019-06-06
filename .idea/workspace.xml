@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a402df60-1fae-468a-a7e3-4bacfb8c0145" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/templates/records.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/records.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/show_plot.py" beforeDir="false" afterPath="$PROJECT_DIR$/show_plot.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,8 +63,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="293" column="22" lean-forward="true" selection-start-line="293" selection-start-column="22" selection-end-line="293" selection-end-column="22" />
+            <state relative-caret-position="267">
+              <caret line="305" column="41" lean-forward="true" selection-start-line="305" selection-start-column="41" selection-end-line="305" selection-end-column="41" />
               <folding>
                 <element signature="e#14#28#0" expanded="true" />
               </folding>
@@ -88,11 +88,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="records.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="records.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/records.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="507" column="33" lean-forward="true" selection-start-line="507" selection-start-column="33" selection-end-line="507" selection-end-column="33" />
+            <state relative-caret-position="247">
+              <caret line="499" column="25" lean-forward="true" selection-start-line="499" selection-start-column="25" selection-end-line="499" selection-end-column="25" />
               <folding>
                 <element signature="e#16337#16343#0#HTML" expanded="true" />
                 <element signature="e#16343#16349#0#HTML" expanded="true" />
@@ -104,11 +104,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="show_plot.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="show_plot.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/show_plot.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -167,11 +167,11 @@
         <option value="$PROJECT_DIR$/dataHandler.py" />
         <option value="$PROJECT_DIR$/static/js/check.js" />
         <option value="$PROJECT_DIR$/dbHandler.py" />
-        <option value="$PROJECT_DIR$/show_plot.py" />
         <option value="$PROJECT_DIR$/run.py" />
         <option value="$PROJECT_DIR$/templates/images.html" />
         <option value="$PROJECT_DIR$/views.py" />
         <option value="$PROJECT_DIR$/templates/records.html" />
+        <option value="$PROJECT_DIR$/show_plot.py" />
       </list>
     </option>
   </component>
@@ -511,7 +511,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559833755593</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="merge two systems together and add function of different types of file">
+      <created>1559833841784</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1559833841784</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -904,16 +911,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/show_plot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/run.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -926,8 +923,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="293" column="22" lean-forward="true" selection-start-line="293" selection-start-column="22" selection-end-line="293" selection-end-column="22" />
+        <state relative-caret-position="267">
+          <caret line="305" column="41" lean-forward="true" selection-start-line="305" selection-start-column="41" selection-end-line="305" selection-end-column="41" />
           <folding>
             <element signature="e#14#28#0" expanded="true" />
           </folding>
@@ -950,14 +947,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/records.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="507" column="33" lean-forward="true" selection-start-line="507" selection-start-column="33" selection-end-line="507" selection-end-column="33" />
+        <state relative-caret-position="247">
+          <caret line="499" column="25" lean-forward="true" selection-start-line="499" selection-start-column="25" selection-end-line="499" selection-end-column="25" />
           <folding>
             <element signature="e#16337#16343#0#HTML" expanded="true" />
             <element signature="e#16343#16349#0#HTML" expanded="true" />
             <element signature="e#16349#16355#0#HTML" expanded="true" />
             <element signature="e#16355#16361#0#HTML" expanded="true" />
             <element signature="e#16454#16460#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/show_plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
