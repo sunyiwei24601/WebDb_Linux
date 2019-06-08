@@ -1,5 +1,10 @@
 import pandas as pd
+import matplotlib as mtp
+mtp.use("Agg")
+from pylab import *
+mpl.rcParams['font.sans-serif'] = ['SimHei']
 import matplotlib.pyplot as plt
+
 
 def print_pie(counts_dict, field):
     print("this output show_Image!")
@@ -9,7 +14,7 @@ def print_pie(counts_dict, field):
     ax1 = fig.add_subplot(111)
     ax1.set_title("{field} 统计饼状图".format(field=field
                                          ))
-    values = counts_dict.values()
+    values = list(counts_dict.values())
     explode = [0 for value in values]
     explode[0] += 0.1
     ax1.pie(values, labels=labels, explode=explode, shadow=True)
