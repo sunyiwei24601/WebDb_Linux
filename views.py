@@ -268,6 +268,8 @@ def importTable():
         value_df = value_df.drop(["其他"], axis=1)
         print(value_df.columns)
         #fileDataframe = pd.DataFrame.from_csv(inputfile, encoding=f_charInfo['encoding'])
+        value_df.insert(0, "序号", value_df.index+1)
+        
         dffile = 'tempDfXXX.csv'
         value_df.to_csv(dffile, index=False)
 
