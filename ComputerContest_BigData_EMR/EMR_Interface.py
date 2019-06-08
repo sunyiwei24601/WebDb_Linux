@@ -33,11 +33,11 @@ if __name__=='__main__':
 
     # 用模型获取浸润值
     # get_infiltration_model()
-    os.system('python ChineseNER_master\main_Interface.py')
+    os.system('python ChineseNER_master/main_Interface.py')
 
     # 用模型获取浸标本值
     # get_spe_model()
-    os.system('python ChineseNER_master2\main_Interface.py')
+    os.system('python ChineseNER_master2/main_Interface.py')
 
     value_df =pd.read_csv('value_df.csv', encoding='gb2312')
 
