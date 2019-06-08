@@ -9,24 +9,26 @@ def get_EMR_df_norm(initial_EMR_path,read_encoding='gb2312',EMR_df_norm_path='EM
 
     # 去除字符串开头非中文、非引号
     # eg. S12-10787（1-23）HEx23.“左侧乳腺改良根治标本”，所以括号留着不行
-    def remove_Abnormal_symbols(x):
-        while True:
-            if not re.match('[\u4e00-\u9fa5]|“',x[0]):
-                x=x[1:]
-                continue
-            else:
-                break
-        return x
+    # def remove_Abnormal_symbols(x):
+    #     while True:
+    #         if not re.match('[\u4e00-\u9fa5]|“',x[0]):
+    #             x=x[1:]
+    #             continue
+    #         else:
+    #             break
+    #     return x
+    #
+    # EMR_df['文本内容']=EMR_df['文本内容'].apply(remove_Abnormal_symbols)
 
-    EMR_df['文本内容']=EMR_df['文本内容'].apply(remove_Abnormal_symbols)
-
+    # 会把转移比例的值删了
     #删除\d(、|，)
     #eg. 1、   2，
-    def romove2(x):
-        pattern=re.compile('\d(、|，)')
-        x=re.sub(pattern,'',x)
-        return x
-    EMR_df['文本内容']=EMR_df['文本内容'].apply(romove2)
+    # def romove2(x):
+    #     pattern=re.compile('\d[、，]')
+    #     # 没有匹配到不会报错
+    #     x=re.sub(pattern,'',x)
+    #     return x
+    # EMR_df['文本内容']=EMR_df['文本内容'].apply(romove2)
 
     # 去除字符串开头或者结尾的空格
     # 把 切断 替换为 切端
@@ -36,6 +38,13 @@ def get_EMR_df_norm(initial_EMR_path,read_encoding='gb2312',EMR_df_norm_path='EM
         x=x.replace('？','')
         x=x.replace('切断','切端')
         x = x.replace('未及', '未见')
+        x = x.replace('增值型', '增殖型')
+        x = x.replace('浸润至型', '浸润型')
+        x = x.replace('III', 'Ⅲ')
+        x = x.replace('II', 'Ⅱ')
+        x = x.replace('，活检', '活检')
+        x = x.replace('Dauglas', '道格拉斯')
+        x = x.replace('Douglas', '道格拉斯')
         return x.strip()
     EMR_df['文本内容']=EMR_df['文本内容'].apply(get_strip)
 
@@ -63,7 +72,7 @@ def get_EMR_df_norm(initial_EMR_path,read_encoding='gb2312',EMR_df_norm_path='EM
     EMR_df['文本内容']=EMR_df['文本内容'].apply(romove4)
 
 
-    #删除‘左’‘右’两边的空格
+    #删除‘左’‘右’两边的引号
     #eg. “左”输卵管、“右”输卵管、“右”卵巢、“右”宫旁均未见癌累及
     def romove5(x):
         x=re.sub('”左”', '左', x)
@@ -83,7 +92,8 @@ def get_EMR_df_norm(initial_EMR_path,read_encoding='gb2312',EMR_df_norm_path='EM
                         '肿瘤距最近切缘的距离：','胆总管切缘:','胃切缘:','十二指肠切缘:','其他淋巴结转移情况:','肿瘤细胞:',
                         '胆囊:','炎十二指肠:','其余胰腺情况:']
             for p in properties:
-                x=re.sub(p,'    '+p,x)
+                if p in x:
+                    x=re.sub(p,'    '+p,x)
         return x
     EMR_df['文本内容']=EMR_df['文本内容'].apply(add1)
 

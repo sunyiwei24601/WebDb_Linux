@@ -12,4 +12,11 @@ def look1():
         quote_text=re.findall(pattern,row)
         for q in quote_text:
             print(q)
-look1()
+
+# 查看除了'根治标本'和'切除标本'还有哪些情况
+def look2():
+    for row in EMR_df['文本内容']:
+        pattern = re.compile('标本|活检')
+        if not pattern.search(row):
+            print(row)
+

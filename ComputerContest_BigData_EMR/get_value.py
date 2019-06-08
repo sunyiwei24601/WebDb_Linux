@@ -51,6 +51,11 @@ def get_value_df(to_encoding,split_df_path='split_df.csv',value_df_path='value_d
         specimen=[]
         for i in range(len(x)):
             x[i]=x[i].strip()
+            # 只取'见'前面的字
+            if '见' in x[i]:
+                result = re.search('见', x[i])
+                index = re.search('见', x[i]).regs[0][1]
+                x[i] = x[i][:index]
             # 只取标本前面的字
             if '标本' in x[i]:
                 result = re.search('标本', x[i])
@@ -132,17 +137,39 @@ def get_value_df(to_encoding,split_df_path='split_df.csv',value_df_path='value_d
                 if specimen[i][-2:] != '标本':
                     specimen[i] = specimen[i] + '标本'
         return specimen
-    split_df['标本']=split_df['标本'].apply(get_specimen)
+    # split_df['标本']=split_df['标本'].apply(get_specimen)
 
 
     # 获取病理属性的值
     def get_pathology(x):
+        if pd.isnull(x):
+            return
         x = x.replace("'", '')
         if x == '[]':
             return
         else:
             x = x[1:-1]
             x = x.split(',')
+        if not x:
+            return
+        for i in range(len(x)):
+            x[i]=x[i].replace(' ','')
+
+        # #去掉list中子集
+        # cur_list = x
+        # # 需要先去重
+        # out_list = list()
+        # for cur_str1 in cur_list:
+        #     contian_flag = 0
+        #     for cur_str2 in cur_list:
+        #         if (cur_str1 in cur_str2):
+        #             contian_flag = contian_flag + 1
+        #     if (contian_flag == 1):
+        #         out_list.append(cur_str1)
+        # x=out_list
+
+        if not x:
+            return
         str=x[0]
         if len(x)>1:
             for i in range(len(x)):
@@ -157,30 +184,38 @@ def get_value_df(to_encoding,split_df_path='split_df.csv',value_df_path='value_d
 
     # 获取瘤体大小的值
     def get_tumour_size(x):
+        if pd.isnull(x):
+            return
         x = x.replace("'", '')
         if x == '[]':
             return
         else:
             x = x[1:-1]
             x = x.split(',')
+        records=[]
         for i in range(len(x)):
             #只取‘直径’或‘大小’后面的字
-            if '直径' in x[i]:
-                sep = '直径'
-                index = x[i].find(sep) +2
-                x[i]=x[i][index:]
-            if '大小' in x[i]:
-                sep = '大小'
-                index = x[i].find(sep) +2
-                x[i]=x[i][index:]
-            pattern=re.compile(r'\d.*cm')
-            tumour_size=pattern.search(x[i])
+            # if '直径' in x[i]:
+            #     sep = '直径'
+            #     index = x[i].find(sep) +2
+            #     x[i]=x[i][index:]
+            # if '大小' in x[i]:
+            #     sep = '大小'
+            #     index = x[i].find(sep) +2
+            #     x[i]=x[i][index:]
+            pattern=re.compile(r'\d[^\u4e00-\u9fa5]*cm')
+            tumour_size=pattern.findall(x[i])
             if tumour_size:
-                x[i]=tumour_size.group()
+                records+=tumour_size
+                # x[i]=tumour_size.group()
         # 只保留数字、×、cm、小数点.、-、x
-        for i in range(len(x)):
-            x[i] = "".join(filter(lambda ch: ch in '0123456789.cm×x-*', x[i]))
-
+        for i in range(len(records)):
+            records[i] = "".join(filter(lambda ch: ch in '0123456789.cm×x-*', records[i]))
+            if ('×' not in records[i]) and ('*' not in records[i]) and ('x' not in records[i]):
+                records[i]='直径'+records[i]
+        x=records
+        if not x:
+            return
         str = x[0]
         if len(x) > 1:
             for i in range(len(x)):
@@ -193,96 +228,98 @@ def get_value_df(to_encoding,split_df_path='split_df.csv',value_df_path='value_d
     split_df['肿瘤大小']=split_df['肿瘤大小'].apply(get_tumour_size)
 
     # 获取浸润的值
-    def get_infiltration(x):
-        x=x.replace("'",'')
-        if x=='[]':
-            return
-        else:
-            x=x[1:-1]
-            x=x.split(',')
-
-        infiltrations=[]
-        for i in range(len(x)):
-            str=x[i]
-            str = str.replace('另送', '')
-            str = str.replace('另', '')
-            str=str.replace(' ', '')
-            if '伴' in str:
-                index=str.index('伴')
-                str=str[:index]
-            pattern=re.compile('均?可?见.*浸润')
-            if re.search(pattern,str):
-                # 取前面的
-                index=re.search(pattern,str).span()[0]
-                infilt=str[:index]
-                infiltrations.append(infilt)
-            else:
-                pattern = re.compile('浸润至')
-                if re.search(pattern,str):
-                    # 取后面的
-                    index=re.search('浸润至',str).span()[1]
-                    infilt=str[index:]
-                    infiltrations.append(infilt)
-                else:
-                    str=str.strip()
-                    if str[:4]=='肿瘤侵犯':
-                        continue
-                    str_splits=jieba.lcut(str)
-                    str_splits=list(filter(None, str_splits))
-                    if str_splits:
-                        if str_splits[0]=='浸润':
-                            infiltrations.append("".join(str_splits[1:]))
-                        else:
-                            # or (str[:4]=='肿瘤侵犯')
-                            if (str[:4]=='局部浸润')  or (str[:4]=='肿瘤浸润') or (str[:4]=='局灶浸润') :
-                                infilt=str[4:]
-                                infiltrations.append(infilt)
-                            else:
-                                pattern=re.compile('局限于.*内')
-                                result=re.search(pattern,str)
-                                if result:
-                                    index1=result.span()[0]
-                                    index2=result.span()[1]
-                                    infilt=str[index1+3:index2-1]
-                                    infiltrations.append(infilt)
-                                else:
-                                    if str[:5]=='癌组织浸润':
-                                        infilt = str[5:]
-                                        infiltrations.append(infilt)
-                                    else:
-                                        pattern=re.compile('受.*浸润')
-                                        result = re.search(pattern, str)
-                                        if result:
-                                            index = re.search(pattern, str).span()[0]
-                                            infilt = str[:index]
-                                            infiltrations.append(infilt)
-                                        else:
-                                            pattern = re.compile('”(.*)”')
-                                            result=re.findall(pattern,str)
-                                            if result:
-                                                infiltrations+=result
-                                            else:
-                                                pass
-                                                # print(str)
-                                                # infiltrations.append(str)
-
-        # return x
-        x=infiltrations
-        x = list(filter(None, x))
-        x=list(set(x))
-        if not x:
-            return
-        # 改变list形式
-        str = x[0]
-        if len(x) > 1:
-            for i in range(len(x)):
-                if i == 0:
-                    continue
-                str += '，'
-                str += x[i]
-        return str
-
-    split_df['浸润']=split_df['浸润'].apply(get_infiltration)
+    # def get_infiltration(x):
+    #     x=x.replace("'",'')
+    #     if x=='[]':
+    #         return
+    #     else:
+    #         x=x[1:-1]
+    #         x=x.split(',')
+    #
+    #     infiltrations=[]
+    #     for i in range(len(x)):
+    #         if '未见' in x[i]:
+    #             continue
+    #         str=x[i]
+    #         str = str.replace('另送', '')
+    #         str = str.replace('另', '')
+    #         str=str.replace(' ', '')
+    #         if '伴' in str:
+    #             index=str.index('伴')
+    #             str=str[:index]
+    #         pattern=re.compile('均?可?见.*浸润')
+    #         if re.search(pattern,str):
+    #             # 取前面的
+    #             index=re.search(pattern,str).span()[0]
+    #             infilt=str[:index]
+    #             infiltrations.append(infilt)
+    #         else:
+    #             pattern = re.compile('浸润至')
+    #             if re.search(pattern,str):
+    #                 # 取后面的
+    #                 index=re.search('浸润至',str).span()[1]
+    #                 infilt=str[index:]
+    #                 infiltrations.append(infilt)
+    #             else:
+    #                 str=str.strip()
+    #                 if str[:4]=='肿瘤侵犯':
+    #                     continue
+    #                 str_splits=jieba.lcut(str)
+    #                 str_splits=list(filter(None, str_splits))
+    #                 if str_splits:
+    #                     if str_splits[0]=='浸润':
+    #                         infiltrations.append("".join(str_splits[1:]))
+    #                     else:
+    #                         # or (str[:4]=='肿瘤侵犯')
+    #                         if (str[:4]=='局部浸润')  or (str[:4]=='肿瘤浸润') or (str[:4]=='局灶浸润') :
+    #                             infilt=str[4:]
+    #                             infiltrations.append(infilt)
+    #                         else:
+    #                             pattern=re.compile('局限于.*内')
+    #                             result=re.search(pattern,str)
+    #                             if result:
+    #                                 index1=result.span()[0]
+    #                                 index2=result.span()[1]
+    #                                 infilt=str[index1+3:index2-1]
+    #                                 infiltrations.append(infilt)
+    #                             else:
+    #                                 if str[:5]=='癌组织浸润':
+    #                                     infilt = str[5:]
+    #                                     infiltrations.append(infilt)
+    #                                 else:
+    #                                     pattern=re.compile('受.*浸润')
+    #                                     result = re.search(pattern, str)
+    #                                     if result:
+    #                                         index = re.search(pattern, str).span()[0]
+    #                                         infilt = str[:index]
+    #                                         infiltrations.append(infilt)
+    #                                     else:
+    #                                         pattern = re.compile('”(.*)”')
+    #                                         result=re.findall(pattern,str)
+    #                                         if result:
+    #                                             infiltrations+=result
+    #                                         else:
+    #                                             pass
+    #                                             # print(str)
+    #                                             # infiltrations.append(str)
+    #
+    #     # return x
+    #     x=infiltrations
+    #     x = list(filter(None, x))
+    #     x=list(set(x))
+    #     if not x:
+    #         return
+    #     # 改变list形式
+    #     str = x[0]
+    #     if len(x) > 1:
+    #         for i in range(len(x)):
+    #             if i == 0:
+    #                 continue
+    #             str += '，'
+    #             str += x[i]
+    #     return str
+    #
+    # split_df['浸润']=split_df['浸润'].apply(get_infiltration)
 
     # 放到splits中去做
     # 获取病理等级的值
@@ -300,6 +337,8 @@ def get_value_df(to_encoding,split_df_path='split_df.csv',value_df_path='value_d
 
     # 获取转移比例的值
     def get_Transfer_ratio(x):
+        if pd.isnull(x):
+            return
         x = x.replace("'", '')
         if x == '[]':
             return
@@ -327,20 +366,60 @@ def get_value_df(to_encoding,split_df_path='split_df.csv',value_df_path='value_d
     def get_Vascular_invasion(x):
         if pd.isnull(x):
             return
-        elif '未见' in x:
+        x = x.replace("'", '')
+        if x == '[]':
+            return
+        else:
+            x = x[1:-1]
+            x = x.split(',')
+        records=[]
+        for i in range(len(x)):
+            if ('未见' in x[i]) or('-' in x[i]):
+                # return '无'
+                records.append(False)
+            elif ('见' in x[i]) or ('+' in x[i]) or ('癌栓' in x[i]) or ('瘤栓' in x[i])or ('存在' in x[i])or('侵犯' in x[i])or('创' in x[i]):
+                records.append(True)
+                # return '有'
+        if not records:
+            return
+        elif True in records:
+            return '有'
+        elif False in records:
             return '无'
         else:
-            return '有'
+            return records
+
     split_df['脉管侵犯']=split_df['脉管侵犯'].apply(get_Vascular_invasion)
 
     # 获取神经侵犯的值
     def get_Nerve_invasion(x):
         if pd.isnull(x):
             return
-        elif '未见' in x:
+        x = x.replace("'", '')
+        if x == '[]':
+            return
+        else:
+            x = x[1:-1]
+            x = x.split(',')
+        records = []
+        for i in range(len(x)):
+            if ('未见' in x[i]) or('-' in x[i]):
+                # return '无'
+                records.append(False)
+            elif ('见' in x[i]) or ('侵犯' in x[i]) or ('存在' in x[i])\
+                    or('侵及' in x[i])or('包绕' in x[i])or('累及' in x[i])or ('+' in x[i]):
+                # return '有'
+                records.append(True)
+        if not records:
+            return
+        elif True in records:
+            return '有'
+        elif False in records:
             return '无'
         else:
-            return '有'
+            return records
+
+
     split_df['神经侵犯']=split_df['神经侵犯'].apply(get_Nerve_invasion)
 
     # 获得 三种切端是否累及 的值
@@ -357,10 +436,10 @@ def get_value_df(to_encoding,split_df_path='split_df.csv',value_df_path='value_d
             x = x.split(',')
         result=[]
         for i in x:
-            if ('均未见') in i or('未见' in i):
+            if ('均未见') in i or('未见' in i)or('阴性' in i):
                 # return '否'
                 result.append(False)
-            elif ('均见' in i) or('见' in i):
+            elif ('均见' in i) or('见' in i)or('阳性' in i):
                 # return '是'
                 result.append(True)
         if result:
@@ -411,6 +490,8 @@ def get_value_df(to_encoding,split_df_path='split_df.csv',value_df_path='value_d
         else:
             x = x[1:-1]
             x = x.split(',')
+        for i in range(len(x)):
+            x[i]=x[i].replace(' ','')
         x=list(set(x))
         #去掉list的形式
         str = x[0]
@@ -424,6 +505,8 @@ def get_value_df(to_encoding,split_df_path='split_df.csv',value_df_path='value_d
     split_df['分化等级'] = split_df['分化等级'].apply(get_differentiation)
 
     def get_character(x):
+        if pd.isnull(x):
+            return
         x = x.replace("'", '')
         if x == '[]':
             return
@@ -445,6 +528,10 @@ def get_value_df(to_encoding,split_df_path='split_df.csv',value_df_path='value_d
         x = list(set(x))
         if '结合免疫表型' in x:
             x.remove('结合免疫表型')
+        if '免疫表型' in x:
+            x.remove('免疫表型')
+        if '轻度异型' in x:
+            x.remove('轻度异型')
         # 去掉list的形式
         if not x:
             return
@@ -489,16 +576,21 @@ def get_value_df(to_encoding,split_df_path='split_df.csv',value_df_path='value_d
             elif '见' in i:
                 bool_list.append(True)
                 # return '是'
-        if bool_list:
-            result=True
-            for i in bool_list:
-                # 有一个False，result就是False
-                result=(result and i)
-            if result:
-                return '是'
-            return '否'
-        else:
-            return x
+        if not bool_list:
+            return
+        if True in bool_list:
+            return '是'
+        return '否'
+        # if bool_list:
+        #     result=True
+        #     for i in bool_list:
+        #         # 有一个False，result就是False
+        #         result=(result and i)
+        #     if result:
+        #         return '是'
+        #     return '否'
+        # else:
+        #     return x
     split_df['淋巴结是否转移'] = split_df['淋巴结是否转移'].apply(get_lymphaden)
 
     # 获得 参见报告 的值

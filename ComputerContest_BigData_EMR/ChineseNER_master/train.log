@@ -1,0 +1,1587 @@
+2019-06-05 23:07:07,748 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-05 23:21:08,118 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-05 23:24:19,452 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 13:40:31,573 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 13:40:53,802 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 13:42:19,715 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 13:43:26,847 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 13:46:32,119 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 13:54:02,973 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 13:57:00,031 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 17:08:20,664 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 17:14:49,439 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 17:26:07,949 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 17:34:00,502 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 17:37:04,367 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 17:38:47,959 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 17:39:55,337 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 17:50:52,481 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 17:51:39,817 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 17:52:27,209 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 17:54:44,159 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 18:14:35,779 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 18:15:24,800 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 18:20:28,979 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 18:25:34,561 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 18:27:48,686 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 18:28:23,184 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 18:37:35,796 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 18:38:14,776 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 18:39:51,382 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 18:41:12,724 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 18:41:34,444 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 19:12:54,250 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 19:34:27,279 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 19:45:41,860 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-06-07 19:47:59,388 - train.log - INFO - Created model with fresh parameters.
+2019-06-07 19:48:01,858 - train.log - INFO - Load pre-trained embedding.
+2019-06-07 19:48:46,770 - train.log - INFO - Created model with fresh parameters.
+2019-06-07 19:48:49,270 - train.log - INFO - Load pre-trained embedding.
+2019-06-07 19:53:02,168 - train.log - INFO - Created model with fresh parameters.
+2019-06-07 19:53:04,782 - train.log - INFO - Load pre-trained embedding.
+2019-06-07 19:56:30,327 - D:\SUFE\ComputerContest_BigData\EMR_coding\ChineseNER_master/train.log - INFO - Created model with fresh parameters.
+2019-06-07 19:56:35,476 - D:\SUFE\ComputerContest_BigData\EMR_coding\ChineseNER_master/train.log - INFO - Load pre-trained embedding.
+2019-06-07 20:00:22,742 - D:\SUFE\ComputerContest_BigData\EMR_coding\ChineseNER_master/train.log - INFO - Reading model parameters from D:\SUFE\ComputerContest_BigData\EMR_coding\ChineseNER_master/ckpt\ner.ckpt
+2019-06-07 20:02:16,500 - D:\SUFE\ComputerContest_BigData\EMR_coding\ChineseNER_master/train.log - INFO - Reading model parameters from D:\SUFE\ComputerContest_BigData\EMR_coding\ChineseNER_master/ckpt\ner.ckpt
+2019-06-08 11:32:31,053 - D:\SUFE\ComputerContest_BigData\EMR_coding\ChineseNER_master/train.log - INFO - Reading model parameters from D:\SUFE\ComputerContest_BigData\EMR_coding\ChineseNER_master/ckpt\ner.ckpt
+2019-06-08 12:06:38,421 - D:\SUFE\ComputerContest_BigData\EMR_coding\ChineseNER_master/train.log - INFO - Reading model parameters from D:\SUFE\ComputerContest_BigData\EMR_coding\ChineseNER_master/ckpt\ner.ckpt
+2019-06-08 12:11:08,607 - D:\SUFE\ComputerContest_BigData\EMR_coding\ChineseNER_master/train.log - INFO - Reading model parameters from D:\SUFE\ComputerContest_BigData\EMR_coding\ChineseNER_master/ckpt\ner.ckpt
+2019-06-08 12:15:26,348 - D:\SUFE\ComputerContest_BigData\EMR_coding\ChineseNER_master/train.log - INFO - Reading model parameters from D:\SUFE\ComputerContest_BigData\EMR_coding\ChineseNER_master/ckpt\ner.ckpt
+2019-06-08 12:21:24,354 - D:\SUFE\ComputerContest_BigData\EMR_coding\ChineseNER_master/train.log - INFO - Reading model parameters from D:\SUFE\ComputerContest_BigData\EMR_coding\ChineseNER_master/ckpt\ner.ckpt
+2019-06-08 12:23:46,897 - D:\SUFE\ComputerContest_BigData\EMR_coding\ChineseNER_master/train.log - INFO - Reading model parameters from D:\SUFE\ComputerContest_BigData\EMR_coding\ChineseNER_master/ckpt\ner.ckpt
+2019-06-08 12:25:14,213 - D:\SUFE\ComputerContest_BigData\EMR_coding\ChineseNER_master/train.log - INFO - Reading model parameters from D:\SUFE\ComputerContest_BigData\EMR_coding\ChineseNER_master/ckpt\ner.ckpt
+2019-06-08 12:27:33,774 - D:\SUFE\ComputerContest_BigData\EMR_coding\ChineseNER_master/train.log - INFO - Reading model parameters from D:\SUFE\ComputerContest_BigData\EMR_coding\ChineseNER_master/ckpt\ner.ckpt
+2019-06-08 12:29:40,054 - D:\SUFE\ComputerContest_BigData\EMR_coding\ChineseNER_master/train.log - INFO - Reading model parameters from D:\SUFE\ComputerContest_BigData\EMR_coding\ChineseNER_master/ckpt\ner.ckpt
+2019-06-08 13:43:58,338 - D:\SUFE\ComputerContest_BigData\EMR_coding\ChineseNER_master/train.log - INFO - Reading model parameters from D:\SUFE\ComputerContest_BigData\EMR_coding\ChineseNER_master/ckpt\ner.ckpt
+2019-06-08 13:49:51,375 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - num_chars      :	307
+2019-06-08 13:49:51,375 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - char_dim       :	100
+2019-06-08 13:49:51,375 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - num_tags       :	4
+2019-06-08 13:49:51,375 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - seg_dim        :	20
+2019-06-08 13:49:51,375 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - lstm_dim       :	100
+2019-06-08 13:49:51,376 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - batch_size     :	20.0
+2019-06-08 13:49:51,376 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - emb_file       :	D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/wiki_100.utf8
+2019-06-08 13:49:51,376 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - clip           :	5.0
+2019-06-08 13:49:51,376 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - dropout_keep   :	0.5
+2019-06-08 13:49:51,376 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - optimizer      :	adam
+2019-06-08 13:49:51,376 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - lr             :	0.001
+2019-06-08 13:49:51,377 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - tag_schema     :	iobes
+2019-06-08 13:49:51,377 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - pre_emb        :	True
+2019-06-08 13:49:51,377 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - zeros          :	False
+2019-06-08 13:49:51,378 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - lower          :	True
+2019-06-08 13:49:55,107 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - Created model with fresh parameters.
+2019-06-08 13:49:56,954 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - Load pre-trained embedding.
+2019-06-08 13:49:56,955 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - start training
+2019-06-08 13:50:00,658 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:50:01,154 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 219 phrases; correct: 171.
+
+2019-06-08 13:50:01,154 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  91.54%; precision:  78.08%; recall:  76.00%; FB1:  77.03
+
+2019-06-08 13:50:01,154 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  78.08%; recall:  76.00%; FB1:  77.03  219
+
+2019-06-08 13:50:01,301 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best dev f1 score:77.030
+2019-06-08 13:50:04,322 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - model saved
+2019-06-08 13:50:04,322 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:50:04,399 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 119 phrases; correct: 89.
+
+2019-06-08 13:50:04,399 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  89.29%; precision:  74.79%; recall:  76.07%; FB1:  75.42
+
+2019-06-08 13:50:04,399 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  74.79%; recall:  76.07%; FB1:  75.42  119
+
+2019-06-08 13:50:04,543 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best test f1 score:75.420
+2019-06-08 13:50:05,516 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:2 step:46/54, NER loss: 5.405287
+2019-06-08 13:50:05,642 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:50:05,764 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 218 phrases; correct: 179.
+
+2019-06-08 13:50:05,764 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  93.74%; precision:  82.11%; recall:  79.56%; FB1:  80.81
+
+2019-06-08 13:50:05,765 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  82.11%; recall:  79.56%; FB1:  80.81  218
+
+2019-06-08 13:50:05,870 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best dev f1 score:80.810
+2019-06-08 13:50:08,633 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - model saved
+2019-06-08 13:50:08,633 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:50:08,708 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 119 phrases; correct: 92.
+
+2019-06-08 13:50:08,709 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  91.89%; precision:  77.31%; recall:  78.63%; FB1:  77.97
+
+2019-06-08 13:50:08,709 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  77.31%; recall:  78.63%; FB1:  77.97  119
+
+2019-06-08 13:50:08,810 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best test f1 score:77.970
+2019-06-08 13:50:09,883 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:50:10,005 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 223 phrases; correct: 195.
+
+2019-06-08 13:50:10,005 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  95.73%; precision:  87.44%; recall:  86.67%; FB1:  87.05
+
+2019-06-08 13:50:10,005 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  87.44%; recall:  86.67%; FB1:  87.05  223
+
+2019-06-08 13:50:10,106 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best dev f1 score:87.050
+2019-06-08 13:50:12,846 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - model saved
+2019-06-08 13:50:12,846 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:50:12,919 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 118 phrases; correct: 94.
+
+2019-06-08 13:50:12,919 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  93.35%; precision:  79.66%; recall:  80.34%; FB1:  80.00
+
+2019-06-08 13:50:12,919 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  79.66%; recall:  80.34%; FB1:  80.00  118
+
+2019-06-08 13:50:13,018 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best test f1 score:80.000
+2019-06-08 13:50:13,814 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:4 step:38/54, NER loss: 2.264747
+2019-06-08 13:50:14,106 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:50:14,224 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 209 phrases; correct: 180.
+
+2019-06-08 13:50:14,224 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  91.62%; precision:  86.12%; recall:  80.00%; FB1:  82.95
+
+2019-06-08 13:50:14,224 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  86.12%; recall:  80.00%; FB1:  82.95  209
+
+2019-06-08 13:50:14,225 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:50:14,298 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 111 phrases; correct: 94.
+
+2019-06-08 13:50:14,298 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  90.84%; precision:  84.68%; recall:  80.34%; FB1:  82.46
+
+2019-06-08 13:50:14,298 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  84.68%; recall:  80.34%; FB1:  82.46  111
+
+2019-06-08 13:50:14,411 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best test f1 score:82.460
+2019-06-08 13:50:15,491 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:50:15,604 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 230 phrases; correct: 202.
+
+2019-06-08 13:50:15,604 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  97.25%; precision:  87.83%; recall:  89.78%; FB1:  88.79
+
+2019-06-08 13:50:15,605 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  87.83%; recall:  89.78%; FB1:  88.79  230
+
+2019-06-08 13:50:15,707 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best dev f1 score:88.790
+2019-06-08 13:50:18,443 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - model saved
+2019-06-08 13:50:18,444 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:50:18,519 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 122 phrases; correct: 100.
+
+2019-06-08 13:50:18,519 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  95.86%; precision:  81.97%; recall:  85.47%; FB1:  83.68
+
+2019-06-08 13:50:18,519 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  81.97%; recall:  85.47%; FB1:  83.68  122
+
+2019-06-08 13:50:18,619 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best test f1 score:83.680
+2019-06-08 13:50:19,200 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:6 step:30/54, NER loss: 1.805651
+2019-06-08 13:50:19,702 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:50:19,821 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 231 phrases; correct: 207.
+
+2019-06-08 13:50:19,821 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  97.84%; precision:  89.61%; recall:  92.00%; FB1:  90.79
+
+2019-06-08 13:50:19,821 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  89.61%; recall:  92.00%; FB1:  90.79  231
+
+2019-06-08 13:50:19,925 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best dev f1 score:90.790
+2019-06-08 13:50:22,772 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - model saved
+2019-06-08 13:50:22,772 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:50:22,847 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 121 phrases; correct: 105.
+
+2019-06-08 13:50:22,847 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  96.51%; precision:  86.78%; recall:  89.74%; FB1:  88.24
+
+2019-06-08 13:50:22,847 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  86.78%; recall:  89.74%; FB1:  88.24  121
+
+2019-06-08 13:50:22,947 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best test f1 score:88.240
+2019-06-08 13:50:24,049 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:50:24,173 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 228 phrases; correct: 203.
+
+2019-06-08 13:50:24,174 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  97.93%; precision:  89.04%; recall:  90.22%; FB1:  89.62
+
+2019-06-08 13:50:24,174 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  89.04%; recall:  90.22%; FB1:  89.62  228
+
+2019-06-08 13:50:24,174 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:50:24,248 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 107.
+
+2019-06-08 13:50:24,248 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  98.30%; precision:  91.45%; recall:  91.45%; FB1:  91.45
+
+2019-06-08 13:50:24,248 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  91.45%; recall:  91.45%; FB1:  91.45  117
+
+2019-06-08 13:50:24,357 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best test f1 score:91.450
+2019-06-08 13:50:24,841 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:8 step:22/54, NER loss: 1.399917
+2019-06-08 13:50:25,429 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:50:25,543 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 228 phrases; correct: 208.
+
+2019-06-08 13:50:25,544 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  98.22%; precision:  91.23%; recall:  92.44%; FB1:  91.83
+
+2019-06-08 13:50:25,544 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  91.23%; recall:  92.44%; FB1:  91.83  228
+
+2019-06-08 13:50:25,645 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best dev f1 score:91.830
+2019-06-08 13:50:28,578 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - model saved
+2019-06-08 13:50:28,578 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:50:28,848 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 120 phrases; correct: 105.
+
+2019-06-08 13:50:28,848 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  97.73%; precision:  87.50%; recall:  89.74%; FB1:  88.61
+
+2019-06-08 13:50:28,848 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  87.50%; recall:  89.74%; FB1:  88.61  120
+
+2019-06-08 13:50:30,489 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:50:30,735 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 225 phrases; correct: 204.
+
+2019-06-08 13:50:30,735 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  97.97%; precision:  90.67%; recall:  90.67%; FB1:  90.67
+
+2019-06-08 13:50:30,735 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  90.67%; recall:  90.67%; FB1:  90.67  225
+
+2019-06-08 13:50:30,736 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:50:30,827 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 119 phrases; correct: 109.
+
+2019-06-08 13:50:30,827 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  98.38%; precision:  91.60%; recall:  93.16%; FB1:  92.37
+
+2019-06-08 13:50:30,828 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  91.60%; recall:  93.16%; FB1:  92.37  119
+
+2019-06-08 13:50:30,937 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best test f1 score:92.370
+2019-06-08 13:50:31,194 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:10 step:14/54, NER loss: 0.925654
+2019-06-08 13:50:32,127 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:50:32,248 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 229 phrases; correct: 211.
+
+2019-06-08 13:50:32,248 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  98.65%; precision:  92.14%; recall:  93.78%; FB1:  92.95
+
+2019-06-08 13:50:32,249 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  92.14%; recall:  93.78%; FB1:  92.95  229
+
+2019-06-08 13:50:32,351 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best dev f1 score:92.950
+2019-06-08 13:50:35,274 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - model saved
+2019-06-08 13:50:35,274 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:50:35,350 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 120 phrases; correct: 109.
+
+2019-06-08 13:50:35,350 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  98.62%; precision:  90.83%; recall:  93.16%; FB1:  91.98
+
+2019-06-08 13:50:35,350 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  90.83%; recall:  93.16%; FB1:  91.98  120
+
+2019-06-08 13:50:36,436 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:50:36,554 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 227 phrases; correct: 211.
+
+2019-06-08 13:50:36,554 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  98.69%; precision:  92.95%; recall:  93.78%; FB1:  93.36
+
+2019-06-08 13:50:36,554 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  92.95%; recall:  93.78%; FB1:  93.36  227
+
+2019-06-08 13:50:36,654 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best dev f1 score:93.360
+2019-06-08 13:50:39,755 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - model saved
+2019-06-08 13:50:39,755 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:50:39,832 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 120 phrases; correct: 110.
+
+2019-06-08 13:50:39,833 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  98.46%; precision:  91.67%; recall:  94.02%; FB1:  92.83
+
+2019-06-08 13:50:39,833 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  91.67%; recall:  94.02%; FB1:  92.83  120
+
+2019-06-08 13:50:39,931 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best test f1 score:92.830
+2019-06-08 13:50:40,023 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:12 step:6/54, NER loss: 0.815834
+2019-06-08 13:50:41,008 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:50:41,121 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 226 phrases; correct: 213.
+
+2019-06-08 13:50:41,121 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  98.90%; precision:  94.25%; recall:  94.67%; FB1:  94.46
+
+2019-06-08 13:50:41,121 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  94.25%; recall:  94.67%; FB1:  94.46  226
+
+2019-06-08 13:50:41,221 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best dev f1 score:94.460
+2019-06-08 13:50:44,062 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - model saved
+2019-06-08 13:50:44,062 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:50:44,138 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 120 phrases; correct: 110.
+
+2019-06-08 13:50:44,138 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  98.62%; precision:  91.67%; recall:  94.02%; FB1:  92.83
+
+2019-06-08 13:50:44,138 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  91.67%; recall:  94.02%; FB1:  92.83  120
+
+2019-06-08 13:50:45,196 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:13 step:52/54, NER loss: 0.675004
+2019-06-08 13:50:45,233 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:50:45,351 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 229 phrases; correct: 212.
+
+2019-06-08 13:50:45,351 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  98.65%; precision:  92.58%; recall:  94.22%; FB1:  93.39
+
+2019-06-08 13:50:45,351 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  92.58%; recall:  94.22%; FB1:  93.39  229
+
+2019-06-08 13:50:45,351 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:50:45,426 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 122 phrases; correct: 108.
+
+2019-06-08 13:50:45,426 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  98.22%; precision:  88.52%; recall:  92.31%; FB1:  90.38
+
+2019-06-08 13:50:45,426 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  88.52%; recall:  92.31%; FB1:  90.38  122
+
+2019-06-08 13:50:46,497 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:50:46,615 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 227 phrases; correct: 208.
+
+2019-06-08 13:50:46,616 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  98.48%; precision:  91.63%; recall:  92.44%; FB1:  92.04
+
+2019-06-08 13:50:46,616 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  91.63%; recall:  92.44%; FB1:  92.04  227
+
+2019-06-08 13:50:46,616 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:50:46,688 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 118 phrases; correct: 112.
+
+2019-06-08 13:50:46,688 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.43%; precision:  94.92%; recall:  95.73%; FB1:  95.32
+
+2019-06-08 13:50:46,688 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  94.92%; recall:  95.73%; FB1:  95.32  118
+
+2019-06-08 13:50:46,787 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best test f1 score:95.320
+2019-06-08 13:50:47,636 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:15 step:44/54, NER loss: 0.645180
+2019-06-08 13:50:47,839 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:50:47,957 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 226 phrases; correct: 212.
+
+2019-06-08 13:50:47,957 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  98.82%; precision:  93.81%; recall:  94.22%; FB1:  94.01
+
+2019-06-08 13:50:47,957 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  93.81%; recall:  94.22%; FB1:  94.01  226
+
+2019-06-08 13:50:48,124 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:50:48,200 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 121 phrases; correct: 106.
+
+2019-06-08 13:50:48,200 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  98.22%; precision:  87.60%; recall:  90.60%; FB1:  89.08
+
+2019-06-08 13:50:48,200 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  87.60%; recall:  90.60%; FB1:  89.08  121
+
+2019-06-08 13:50:49,294 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:50:49,405 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 229 phrases; correct: 212.
+
+2019-06-08 13:50:49,405 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  98.73%; precision:  92.58%; recall:  94.22%; FB1:  93.39
+
+2019-06-08 13:50:49,405 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  92.58%; recall:  94.22%; FB1:  93.39  229
+
+2019-06-08 13:50:49,406 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:50:49,484 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 121 phrases; correct: 108.
+
+2019-06-08 13:50:49,484 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  98.62%; precision:  89.26%; recall:  92.31%; FB1:  90.76
+
+2019-06-08 13:50:49,484 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  89.26%; recall:  92.31%; FB1:  90.76  121
+
+2019-06-08 13:50:50,232 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:17 step:36/54, NER loss: 0.775643
+2019-06-08 13:50:50,529 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:50:50,641 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 227 phrases; correct: 210.
+
+2019-06-08 13:50:50,641 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  98.52%; precision:  92.51%; recall:  93.33%; FB1:  92.92
+
+2019-06-08 13:50:50,641 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  92.51%; recall:  93.33%; FB1:  92.92  227
+
+2019-06-08 13:50:50,641 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:50:50,711 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 107.
+
+2019-06-08 13:50:50,711 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  97.81%; precision:  91.45%; recall:  91.45%; FB1:  91.45
+
+2019-06-08 13:50:50,711 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  91.45%; recall:  91.45%; FB1:  91.45  117
+
+2019-06-08 13:50:51,765 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:50:51,878 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 226 phrases; correct: 211.
+
+2019-06-08 13:50:51,878 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  98.82%; precision:  93.36%; recall:  93.78%; FB1:  93.57
+
+2019-06-08 13:50:51,878 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  93.36%; recall:  93.78%; FB1:  93.57  226
+
+2019-06-08 13:50:51,879 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:50:52,125 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 109.
+
+2019-06-08 13:50:52,125 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  98.54%; precision:  93.16%; recall:  93.16%; FB1:  93.16
+
+2019-06-08 13:50:52,125 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  93.16%; recall:  93.16%; FB1:  93.16  117
+
+2019-06-08 13:50:52,756 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:19 step:28/54, NER loss: 0.571455
+2019-06-08 13:50:53,215 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:50:53,327 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 226 phrases; correct: 214.
+
+2019-06-08 13:50:53,327 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  98.90%; precision:  94.69%; recall:  95.11%; FB1:  94.90
+
+2019-06-08 13:50:53,327 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  94.69%; recall:  95.11%; FB1:  94.90  226
+
+2019-06-08 13:50:53,430 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best dev f1 score:94.900
+2019-06-08 13:50:56,264 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - model saved
+2019-06-08 13:50:56,264 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:50:56,337 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 118 phrases; correct: 111.
+
+2019-06-08 13:50:56,337 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.27%; precision:  94.07%; recall:  94.87%; FB1:  94.47
+
+2019-06-08 13:50:56,338 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  94.07%; recall:  94.87%; FB1:  94.47  118
+
+2019-06-08 13:50:57,392 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:50:57,504 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 227 phrases; correct: 213.
+
+2019-06-08 13:50:57,505 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  98.94%; precision:  93.83%; recall:  94.67%; FB1:  94.25
+
+2019-06-08 13:50:57,505 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  93.83%; recall:  94.67%; FB1:  94.25  227
+
+2019-06-08 13:50:57,505 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:50:57,580 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 118 phrases; correct: 111.
+
+2019-06-08 13:50:57,580 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  98.78%; precision:  94.07%; recall:  94.87%; FB1:  94.47
+
+2019-06-08 13:50:57,580 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  94.07%; recall:  94.87%; FB1:  94.47  118
+
+2019-06-08 13:50:57,966 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:21 step:20/54, NER loss: 0.467120
+2019-06-08 13:50:58,618 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:50:58,736 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 213.
+
+2019-06-08 13:50:58,736 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.07%; precision:  95.09%; recall:  94.67%; FB1:  94.88
+
+2019-06-08 13:50:58,736 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  95.09%; recall:  94.67%; FB1:  94.88  224
+
+2019-06-08 13:50:58,737 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:50:58,811 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 118 phrases; correct: 113.
+
+2019-06-08 13:50:58,811 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.51%; precision:  95.76%; recall:  96.58%; FB1:  96.17
+
+2019-06-08 13:50:58,811 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  95.76%; recall:  96.58%; FB1:  96.17  118
+
+2019-06-08 13:50:58,910 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best test f1 score:96.170
+2019-06-08 13:50:59,957 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:51:00,071 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 211.
+
+2019-06-08 13:51:00,071 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  98.94%; precision:  94.20%; recall:  93.78%; FB1:  93.99
+
+2019-06-08 13:51:00,239 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  94.20%; recall:  93.78%; FB1:  93.99  224
+
+2019-06-08 13:51:00,240 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:51:00,310 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 118 phrases; correct: 112.
+
+2019-06-08 13:51:00,310 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  98.95%; precision:  94.92%; recall:  95.73%; FB1:  95.32
+
+2019-06-08 13:51:00,310 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  94.92%; recall:  95.73%; FB1:  95.32  118
+
+2019-06-08 13:51:00,672 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:23 step:12/54, NER loss: 0.452072
+2019-06-08 13:51:01,425 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:51:01,541 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 223 phrases; correct: 211.
+
+2019-06-08 13:51:01,541 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.15%; precision:  94.62%; recall:  93.78%; FB1:  94.20
+
+2019-06-08 13:51:01,541 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  94.62%; recall:  93.78%; FB1:  94.20  223
+
+2019-06-08 13:51:01,542 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:51:01,616 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 115.
+
+2019-06-08 13:51:01,616 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.76%; precision:  98.29%; recall:  98.29%; FB1:  98.29
+
+2019-06-08 13:51:01,616 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.29%; recall:  98.29%; FB1:  98.29  117
+
+2019-06-08 13:51:01,715 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best test f1 score:98.290
+2019-06-08 13:51:02,763 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:51:02,884 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 227 phrases; correct: 213.
+
+2019-06-08 13:51:02,884 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  98.98%; precision:  93.83%; recall:  94.67%; FB1:  94.25
+
+2019-06-08 13:51:02,884 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  93.83%; recall:  94.67%; FB1:  94.25  227
+
+2019-06-08 13:51:02,884 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:51:02,957 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 119 phrases; correct: 111.
+
+2019-06-08 13:51:02,957 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  98.78%; precision:  93.28%; recall:  94.87%; FB1:  94.07
+
+2019-06-08 13:51:02,957 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  93.28%; recall:  94.87%; FB1:  94.07  119
+
+2019-06-08 13:51:03,023 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:25 step:4/54, NER loss: 0.371586
+2019-06-08 13:51:04,031 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:51:04,142 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 226 phrases; correct: 215.
+
+2019-06-08 13:51:04,313 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.32%; precision:  95.13%; recall:  95.56%; FB1:  95.34
+
+2019-06-08 13:51:04,313 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  95.13%; recall:  95.56%; FB1:  95.34  226
+
+2019-06-08 13:51:04,420 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best dev f1 score:95.340
+2019-06-08 13:51:07,213 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - model saved
+2019-06-08 13:51:07,213 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:51:07,285 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 119 phrases; correct: 111.
+
+2019-06-08 13:51:07,286 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.19%; precision:  93.28%; recall:  94.87%; FB1:  94.07
+
+2019-06-08 13:51:07,286 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  93.28%; recall:  94.87%; FB1:  94.07  119
+
+2019-06-08 13:51:08,311 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:26 step:50/54, NER loss: 0.372468
+2019-06-08 13:51:08,368 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:51:08,482 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 223 phrases; correct: 214.
+
+2019-06-08 13:51:08,482 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.24%; precision:  95.96%; recall:  95.11%; FB1:  95.54
+
+2019-06-08 13:51:08,482 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  95.96%; recall:  95.11%; FB1:  95.54  223
+
+2019-06-08 13:51:08,587 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best dev f1 score:95.540
+2019-06-08 13:51:11,439 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - model saved
+2019-06-08 13:51:11,439 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:51:11,512 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 119 phrases; correct: 112.
+
+2019-06-08 13:51:11,512 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.51%; precision:  94.12%; recall:  95.73%; FB1:  94.92
+
+2019-06-08 13:51:11,512 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  94.12%; recall:  95.73%; FB1:  94.92  119
+
+2019-06-08 13:51:12,573 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:51:12,689 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 221 phrases; correct: 211.
+
+2019-06-08 13:51:12,689 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.20%; precision:  95.48%; recall:  93.78%; FB1:  94.62
+
+2019-06-08 13:51:12,690 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  95.48%; recall:  93.78%; FB1:  94.62  221
+
+2019-06-08 13:51:12,690 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:51:12,765 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 114.
+
+2019-06-08 13:51:12,765 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.68%; precision:  97.44%; recall:  97.44%; FB1:  97.44
+
+2019-06-08 13:51:12,765 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  97.44%; recall:  97.44%; FB1:  97.44  117
+
+2019-06-08 13:51:13,530 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:28 step:42/54, NER loss: 0.276406
+2019-06-08 13:51:13,809 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:51:13,924 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 227 phrases; correct: 214.
+
+2019-06-08 13:51:13,924 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.11%; precision:  94.27%; recall:  95.11%; FB1:  94.69
+
+2019-06-08 13:51:13,924 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  94.27%; recall:  95.11%; FB1:  94.69  227
+
+2019-06-08 13:51:13,925 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:51:13,996 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 119 phrases; correct: 111.
+
+2019-06-08 13:51:13,996 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.03%; precision:  93.28%; recall:  94.87%; FB1:  94.07
+
+2019-06-08 13:51:13,996 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  93.28%; recall:  94.87%; FB1:  94.07  119
+
+2019-06-08 13:51:15,054 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:51:15,167 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 222 phrases; correct: 213.
+
+2019-06-08 13:51:15,167 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.28%; precision:  95.95%; recall:  94.67%; FB1:  95.30
+
+2019-06-08 13:51:15,167 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  95.95%; recall:  94.67%; FB1:  95.30  222
+
+2019-06-08 13:51:15,168 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:51:15,411 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 115.
+
+2019-06-08 13:51:15,411 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.68%; precision:  98.29%; recall:  98.29%; FB1:  98.29
+
+2019-06-08 13:51:15,411 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.29%; recall:  98.29%; FB1:  98.29  117
+
+2019-06-08 13:51:16,045 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:30 step:34/54, NER loss: 0.361438
+2019-06-08 13:51:16,417 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:51:16,526 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 225 phrases; correct: 214.
+
+2019-06-08 13:51:16,527 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.15%; precision:  95.11%; recall:  95.11%; FB1:  95.11
+
+2019-06-08 13:51:16,527 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  95.11%; recall:  95.11%; FB1:  95.11  225
+
+2019-06-08 13:51:16,527 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:51:16,597 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 118 phrases; correct: 113.
+
+2019-06-08 13:51:16,597 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.51%; precision:  95.76%; recall:  96.58%; FB1:  96.17
+
+2019-06-08 13:51:16,597 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  95.76%; recall:  96.58%; FB1:  96.17  118
+
+2019-06-08 13:51:17,600 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:51:17,711 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 223 phrases; correct: 211.
+
+2019-06-08 13:51:17,711 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.11%; precision:  94.62%; recall:  93.78%; FB1:  94.20
+
+2019-06-08 13:51:17,711 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  94.62%; recall:  93.78%; FB1:  94.20  223
+
+2019-06-08 13:51:17,712 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:51:17,782 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 115.
+
+2019-06-08 13:51:17,782 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.76%; precision:  98.29%; recall:  98.29%; FB1:  98.29
+
+2019-06-08 13:51:17,782 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.29%; recall:  98.29%; FB1:  98.29  117
+
+2019-06-08 13:51:18,274 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:32 step:26/54, NER loss: 0.259741
+2019-06-08 13:51:18,790 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:51:18,898 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 223 phrases; correct: 215.
+
+2019-06-08 13:51:18,899 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.28%; precision:  96.41%; recall:  95.56%; FB1:  95.98
+
+2019-06-08 13:51:18,899 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  96.41%; recall:  95.56%; FB1:  95.98  223
+
+2019-06-08 13:51:19,177 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best dev f1 score:95.980
+2019-06-08 13:51:22,420 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - model saved
+2019-06-08 13:51:22,420 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:51:22,490 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 118 phrases; correct: 115.
+
+2019-06-08 13:51:22,490 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.76%; precision:  97.46%; recall:  98.29%; FB1:  97.87
+
+2019-06-08 13:51:22,491 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  97.46%; recall:  98.29%; FB1:  97.87  118
+
+2019-06-08 13:51:23,547 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:51:23,663 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 222 phrases; correct: 214.
+
+2019-06-08 13:51:23,664 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.37%; precision:  96.40%; recall:  95.11%; FB1:  95.75
+
+2019-06-08 13:51:23,664 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  96.40%; recall:  95.11%; FB1:  95.75  222
+
+2019-06-08 13:51:23,664 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:51:23,740 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 116.
+
+2019-06-08 13:51:23,740 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.84%; precision:  99.15%; recall:  99.15%; FB1:  99.15
+
+2019-06-08 13:51:23,740 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  99.15%; recall:  99.15%; FB1:  99.15  117
+
+2019-06-08 13:51:23,841 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best test f1 score:99.150
+2019-06-08 13:51:24,169 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:34 step:18/54, NER loss: 0.279548
+2019-06-08 13:51:24,876 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:51:24,988 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 214.
+
+2019-06-08 13:51:24,988 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.32%; precision:  95.54%; recall:  95.11%; FB1:  95.32
+
+2019-06-08 13:51:24,988 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  95.54%; recall:  95.11%; FB1:  95.32  224
+
+2019-06-08 13:51:24,989 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:51:25,061 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 115.
+
+2019-06-08 13:51:25,062 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.76%; precision:  98.29%; recall:  98.29%; FB1:  98.29
+
+2019-06-08 13:51:25,062 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.29%; recall:  98.29%; FB1:  98.29  117
+
+2019-06-08 13:51:26,096 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:51:26,209 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 221 phrases; correct: 212.
+
+2019-06-08 13:51:26,210 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.32%; precision:  95.93%; recall:  94.22%; FB1:  95.07
+
+2019-06-08 13:51:26,376 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  95.93%; recall:  94.22%; FB1:  95.07  221
+
+2019-06-08 13:51:26,377 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:51:26,445 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 113.
+
+2019-06-08 13:51:26,445 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.59%; precision:  96.58%; recall:  96.58%; FB1:  96.58
+
+2019-06-08 13:51:26,446 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  96.58%; recall:  96.58%; FB1:  96.58  117
+
+2019-06-08 13:51:26,581 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:36 step:10/54, NER loss: 0.268373
+2019-06-08 13:51:27,519 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:51:27,633 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 223 phrases; correct: 215.
+
+2019-06-08 13:51:27,634 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.20%; precision:  96.41%; recall:  95.56%; FB1:  95.98
+
+2019-06-08 13:51:27,634 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  96.41%; recall:  95.56%; FB1:  95.98  223
+
+2019-06-08 13:51:27,634 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:51:27,707 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 115.
+
+2019-06-08 13:51:27,707 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.76%; precision:  98.29%; recall:  98.29%; FB1:  98.29
+
+2019-06-08 13:51:27,707 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.29%; recall:  98.29%; FB1:  98.29  117
+
+2019-06-08 13:51:28,751 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:51:28,863 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 223 phrases; correct: 216.
+
+2019-06-08 13:51:28,864 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.41%; precision:  96.86%; recall:  96.00%; FB1:  96.43
+
+2019-06-08 13:51:28,864 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  96.86%; recall:  96.00%; FB1:  96.43  223
+
+2019-06-08 13:51:28,964 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best dev f1 score:96.430
+2019-06-08 13:51:31,837 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - model saved
+2019-06-08 13:51:31,838 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:51:31,911 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 116.
+
+2019-06-08 13:51:31,911 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.84%; precision:  99.15%; recall:  99.15%; FB1:  99.15
+
+2019-06-08 13:51:31,912 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  99.15%; recall:  99.15%; FB1:  99.15  117
+
+2019-06-08 13:51:31,958 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:38 step:2/54, NER loss: 0.259534
+2019-06-08 13:51:32,973 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:51:33,088 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 228 phrases; correct: 214.
+
+2019-06-08 13:51:33,088 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  98.98%; precision:  93.86%; recall:  95.11%; FB1:  94.48
+
+2019-06-08 13:51:33,088 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  93.86%; recall:  95.11%; FB1:  94.48  228
+
+2019-06-08 13:51:33,089 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:51:33,160 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 119 phrases; correct: 111.
+
+2019-06-08 13:51:33,160 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  98.70%; precision:  93.28%; recall:  94.87%; FB1:  94.07
+
+2019-06-08 13:51:33,161 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  93.28%; recall:  94.87%; FB1:  94.07  119
+
+2019-06-08 13:51:34,024 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:39 step:48/54, NER loss: 0.205214
+2019-06-08 13:51:34,206 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:51:34,318 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 217.
+
+2019-06-08 13:51:34,318 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.53%; precision:  96.88%; recall:  96.44%; FB1:  96.66
+
+2019-06-08 13:51:34,318 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  96.88%; recall:  96.44%; FB1:  96.66  224
+
+2019-06-08 13:51:34,418 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best dev f1 score:96.660
+2019-06-08 13:51:37,305 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - model saved
+2019-06-08 13:51:37,305 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:51:37,382 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 115.
+
+2019-06-08 13:51:37,382 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.76%; precision:  98.29%; recall:  98.29%; FB1:  98.29
+
+2019-06-08 13:51:37,382 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.29%; recall:  98.29%; FB1:  98.29  117
+
+2019-06-08 13:51:38,486 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:51:38,604 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 226 phrases; correct: 216.
+
+2019-06-08 13:51:38,604 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.49%; precision:  95.58%; recall:  96.00%; FB1:  95.79
+
+2019-06-08 13:51:38,604 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  95.58%; recall:  96.00%; FB1:  95.79  226
+
+2019-06-08 13:51:38,604 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:51:38,674 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 116.
+
+2019-06-08 13:51:38,674 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.84%; precision:  99.15%; recall:  99.15%; FB1:  99.15
+
+2019-06-08 13:51:38,674 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  99.15%; recall:  99.15%; FB1:  99.15  117
+
+2019-06-08 13:51:39,464 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:41 step:40/54, NER loss: 0.204754
+2019-06-08 13:51:39,737 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:51:39,856 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 219.
+
+2019-06-08 13:51:39,856 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.66%; precision:  97.77%; recall:  97.33%; FB1:  97.55
+
+2019-06-08 13:51:39,856 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  97.77%; recall:  97.33%; FB1:  97.55  224
+
+2019-06-08 13:51:39,957 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best dev f1 score:97.550
+2019-06-08 13:51:42,923 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - model saved
+2019-06-08 13:51:42,924 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:51:42,995 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:51:42,995 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:51:42,995 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:51:43,096 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best test f1 score:100.000
+2019-06-08 13:51:44,153 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:51:44,265 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 223 phrases; correct: 217.
+
+2019-06-08 13:51:44,265 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.49%; precision:  97.31%; recall:  96.44%; FB1:  96.87
+
+2019-06-08 13:51:44,265 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  97.31%; recall:  96.44%; FB1:  96.87  223
+
+2019-06-08 13:51:44,265 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:51:44,340 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 116.
+
+2019-06-08 13:51:44,341 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.84%; precision:  99.15%; recall:  99.15%; FB1:  99.15
+
+2019-06-08 13:51:44,341 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  99.15%; recall:  99.15%; FB1:  99.15  117
+
+2019-06-08 13:51:44,939 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:43 step:32/54, NER loss: 0.237394
+2019-06-08 13:51:45,384 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:51:45,500 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 223 phrases; correct: 216.
+
+2019-06-08 13:51:45,500 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.37%; precision:  96.86%; recall:  96.00%; FB1:  96.43
+
+2019-06-08 13:51:45,500 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  96.86%; recall:  96.00%; FB1:  96.43  223
+
+2019-06-08 13:51:45,500 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:51:45,573 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 116.
+
+2019-06-08 13:51:45,574 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.92%; precision:  99.15%; recall:  99.15%; FB1:  99.15
+
+2019-06-08 13:51:45,574 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  99.15%; recall:  99.15%; FB1:  99.15  117
+
+2019-06-08 13:51:46,631 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:51:46,743 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 218.
+
+2019-06-08 13:51:46,743 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.62%; precision:  97.32%; recall:  96.89%; FB1:  97.10
+
+2019-06-08 13:51:46,909 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  97.32%; recall:  96.89%; FB1:  97.10  224
+
+2019-06-08 13:51:46,910 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:51:46,979 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 115.
+
+2019-06-08 13:51:46,980 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.76%; precision:  98.29%; recall:  98.29%; FB1:  98.29
+
+2019-06-08 13:51:46,980 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.29%; recall:  98.29%; FB1:  98.29  117
+
+2019-06-08 13:51:47,542 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:45 step:24/54, NER loss: 0.256282
+2019-06-08 13:51:48,058 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:51:48,178 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 219.
+
+2019-06-08 13:51:48,179 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.66%; precision:  97.77%; recall:  97.33%; FB1:  97.55
+
+2019-06-08 13:51:48,179 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  97.77%; recall:  97.33%; FB1:  97.55  224
+
+2019-06-08 13:51:48,179 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:51:48,250 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 118 phrases; correct: 115.
+
+2019-06-08 13:51:48,250 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.76%; precision:  97.46%; recall:  98.29%; FB1:  97.87
+
+2019-06-08 13:51:48,251 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  97.46%; recall:  98.29%; FB1:  97.87  118
+
+2019-06-08 13:51:49,300 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:51:49,418 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 218.
+
+2019-06-08 13:51:49,418 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.62%; precision:  97.32%; recall:  96.89%; FB1:  97.10
+
+2019-06-08 13:51:49,418 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  97.32%; recall:  96.89%; FB1:  97.10  224
+
+2019-06-08 13:51:49,419 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:51:49,489 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 119 phrases; correct: 115.
+
+2019-06-08 13:51:49,489 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.84%; precision:  96.64%; recall:  98.29%; FB1:  97.46
+
+2019-06-08 13:51:49,489 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  96.64%; recall:  98.29%; FB1:  97.46  119
+
+2019-06-08 13:51:49,736 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:47 step:16/54, NER loss: 0.197594
+2019-06-08 13:51:50,540 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:51:50,651 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 220.
+
+2019-06-08 13:51:50,651 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.66%; precision:  98.21%; recall:  97.78%; FB1:  98.00
+
+2019-06-08 13:51:50,651 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.21%; recall:  97.78%; FB1:  98.00  224
+
+2019-06-08 13:51:50,933 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best dev f1 score:98.000
+2019-06-08 13:51:53,709 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - model saved
+2019-06-08 13:51:53,709 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:51:53,783 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 115.
+
+2019-06-08 13:51:53,783 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.68%; precision:  98.29%; recall:  98.29%; FB1:  98.29
+
+2019-06-08 13:51:53,783 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.29%; recall:  98.29%; FB1:  98.29  117
+
+2019-06-08 13:51:54,887 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:51:55,006 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 225 phrases; correct: 220.
+
+2019-06-08 13:51:55,006 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.62%; precision:  97.78%; recall:  97.78%; FB1:  97.78
+
+2019-06-08 13:51:55,006 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  97.78%; recall:  97.78%; FB1:  97.78  225
+
+2019-06-08 13:51:55,007 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:51:55,078 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:51:55,078 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:51:55,078 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:51:55,250 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:49 step:8/54, NER loss: 0.220669
+2019-06-08 13:51:56,155 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:51:56,269 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 219.
+
+2019-06-08 13:51:56,270 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.66%; precision:  97.77%; recall:  97.33%; FB1:  97.55
+
+2019-06-08 13:51:56,270 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  97.77%; recall:  97.33%; FB1:  97.55  224
+
+2019-06-08 13:51:56,270 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:51:56,342 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:51:56,342 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:51:56,343 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:51:57,403 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:51 step:0/54, NER loss: 0.150492
+2019-06-08 13:51:57,403 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:51:57,520 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 222 phrases; correct: 218.
+
+2019-06-08 13:51:57,520 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.58%; precision:  98.20%; recall:  96.89%; FB1:  97.54
+
+2019-06-08 13:51:57,520 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.20%; recall:  96.89%; FB1:  97.54  222
+
+2019-06-08 13:51:57,521 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:51:57,594 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:51:57,594 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:51:57,594 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:51:58,640 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:51:58,752 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 220.
+
+2019-06-08 13:51:58,752 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.66%; precision:  98.21%; recall:  97.78%; FB1:  98.00
+
+2019-06-08 13:51:58,752 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.21%; recall:  97.78%; FB1:  98.00  224
+
+2019-06-08 13:51:58,752 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:51:58,824 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 116.
+
+2019-06-08 13:51:58,824 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.84%; precision:  99.15%; recall:  99.15%; FB1:  99.15
+
+2019-06-08 13:51:58,824 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  99.15%; recall:  99.15%; FB1:  99.15  117
+
+2019-06-08 13:51:59,986 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:52 step:46/54, NER loss: 0.152548
+2019-06-08 13:52:00,091 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:00,212 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 221.
+
+2019-06-08 13:52:00,212 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.75%; precision:  98.66%; recall:  98.22%; FB1:  98.44
+
+2019-06-08 13:52:00,213 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.66%; recall:  98.22%; FB1:  98.44  224
+
+2019-06-08 13:52:00,315 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best dev f1 score:98.440
+2019-06-08 13:52:03,262 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - model saved
+2019-06-08 13:52:03,262 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:03,345 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 116.
+
+2019-06-08 13:52:03,345 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.84%; precision:  99.15%; recall:  99.15%; FB1:  99.15
+
+2019-06-08 13:52:03,346 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  99.15%; recall:  99.15%; FB1:  99.15  117
+
+2019-06-08 13:52:04,415 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:04,527 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 220.
+
+2019-06-08 13:52:04,528 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.70%; precision:  98.21%; recall:  97.78%; FB1:  98.00
+
+2019-06-08 13:52:04,528 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.21%; recall:  97.78%; FB1:  98.00  224
+
+2019-06-08 13:52:04,528 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:04,598 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:04,598 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:04,599 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:05,338 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:54 step:38/54, NER loss: 0.140118
+2019-06-08 13:52:05,651 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:05,777 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 219.
+
+2019-06-08 13:52:05,777 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.66%; precision:  97.77%; recall:  97.33%; FB1:  97.55
+
+2019-06-08 13:52:05,777 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  97.77%; recall:  97.33%; FB1:  97.55  224
+
+2019-06-08 13:52:05,778 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:05,848 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:05,848 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:05,848 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:06,896 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:07,009 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 221 phrases; correct: 209.
+
+2019-06-08 13:52:07,010 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  98.86%; precision:  94.57%; recall:  92.89%; FB1:  93.72
+
+2019-06-08 13:52:07,010 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  94.57%; recall:  92.89%; FB1:  93.72  221
+
+2019-06-08 13:52:07,180 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:07,255 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 114.
+
+2019-06-08 13:52:07,255 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.76%; precision:  97.44%; recall:  97.44%; FB1:  97.44
+
+2019-06-08 13:52:07,255 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  97.44%; recall:  97.44%; FB1:  97.44  117
+
+2019-06-08 13:52:07,873 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:56 step:30/54, NER loss: 0.150388
+2019-06-08 13:52:08,328 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:08,444 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 227 phrases; correct: 221.
+
+2019-06-08 13:52:08,444 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.70%; precision:  97.36%; recall:  98.22%; FB1:  97.79
+
+2019-06-08 13:52:08,445 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  97.36%; recall:  98.22%; FB1:  97.79  227
+
+2019-06-08 13:52:08,445 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:08,522 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 116.
+
+2019-06-08 13:52:08,523 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.84%; precision:  99.15%; recall:  99.15%; FB1:  99.15
+
+2019-06-08 13:52:08,523 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  99.15%; recall:  99.15%; FB1:  99.15  117
+
+2019-06-08 13:52:09,568 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:09,689 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 223 phrases; correct: 220.
+
+2019-06-08 13:52:09,689 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.62%; precision:  98.65%; recall:  97.78%; FB1:  98.21
+
+2019-06-08 13:52:09,689 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.65%; recall:  97.78%; FB1:  98.21  223
+
+2019-06-08 13:52:09,690 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:09,763 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:09,763 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:09,763 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:10,256 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:58 step:22/54, NER loss: 0.133446
+2019-06-08 13:52:10,819 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:10,946 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 223 phrases; correct: 220.
+
+2019-06-08 13:52:10,946 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.62%; precision:  98.65%; recall:  97.78%; FB1:  98.21
+
+2019-06-08 13:52:10,946 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.65%; recall:  97.78%; FB1:  98.21  223
+
+2019-06-08 13:52:11,106 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:11,176 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:11,176 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:11,177 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:12,253 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:12,368 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 220.
+
+2019-06-08 13:52:12,368 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.66%; precision:  98.21%; recall:  97.78%; FB1:  98.00
+
+2019-06-08 13:52:12,368 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.21%; recall:  97.78%; FB1:  98.00  224
+
+2019-06-08 13:52:12,369 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:12,439 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:12,439 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:12,439 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:12,700 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:60 step:14/54, NER loss: 0.096718
+2019-06-08 13:52:13,489 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:13,604 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 223 phrases; correct: 220.
+
+2019-06-08 13:52:13,604 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.62%; precision:  98.65%; recall:  97.78%; FB1:  98.21
+
+2019-06-08 13:52:13,604 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.65%; recall:  97.78%; FB1:  98.21  223
+
+2019-06-08 13:52:13,604 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:13,675 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:13,675 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:13,675 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:14,717 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:14,834 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 220.
+
+2019-06-08 13:52:14,834 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.58%; precision:  98.21%; recall:  97.78%; FB1:  98.00
+
+2019-06-08 13:52:14,834 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.21%; recall:  97.78%; FB1:  98.00  224
+
+2019-06-08 13:52:14,998 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:15,072 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:15,072 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:15,072 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:15,160 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:62 step:6/54, NER loss: 0.118665
+2019-06-08 13:52:16,102 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:16,210 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 221.
+
+2019-06-08 13:52:16,210 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.75%; precision:  98.66%; recall:  98.22%; FB1:  98.44
+
+2019-06-08 13:52:16,210 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.66%; recall:  98.22%; FB1:  98.44  224
+
+2019-06-08 13:52:16,210 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:16,282 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:16,282 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:16,282 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:17,255 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:63 step:52/54, NER loss: 0.112196
+2019-06-08 13:52:17,289 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:17,397 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 219.
+
+2019-06-08 13:52:17,397 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.66%; precision:  97.77%; recall:  97.33%; FB1:  97.55
+
+2019-06-08 13:52:17,397 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  97.77%; recall:  97.33%; FB1:  97.55  224
+
+2019-06-08 13:52:17,397 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:17,468 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:17,468 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:17,468 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:18,477 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:18,585 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 223 phrases; correct: 220.
+
+2019-06-08 13:52:18,585 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.62%; precision:  98.65%; recall:  97.78%; FB1:  98.21
+
+2019-06-08 13:52:18,585 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.65%; recall:  97.78%; FB1:  98.21  223
+
+2019-06-08 13:52:18,755 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:18,833 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:18,833 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:18,833 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:19,752 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:65 step:44/54, NER loss: 0.097311
+2019-06-08 13:52:19,905 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:20,018 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 223 phrases; correct: 220.
+
+2019-06-08 13:52:20,019 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.62%; precision:  98.65%; recall:  97.78%; FB1:  98.21
+
+2019-06-08 13:52:20,019 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.65%; recall:  97.78%; FB1:  98.21  223
+
+2019-06-08 13:52:20,019 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:20,098 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:20,098 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:20,098 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:21,152 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:21,268 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 223 phrases; correct: 219.
+
+2019-06-08 13:52:21,269 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.45%; precision:  98.21%; recall:  97.33%; FB1:  97.77
+
+2019-06-08 13:52:21,269 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.21%; recall:  97.33%; FB1:  97.77  223
+
+2019-06-08 13:52:21,269 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:21,340 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:21,340 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:21,340 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:21,997 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:67 step:36/54, NER loss: 0.113094
+2019-06-08 13:52:22,389 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:22,501 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 220.
+
+2019-06-08 13:52:22,501 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.66%; precision:  98.21%; recall:  97.78%; FB1:  98.00
+
+2019-06-08 13:52:22,501 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.21%; recall:  97.78%; FB1:  98.00  224
+
+2019-06-08 13:52:22,673 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:22,749 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:22,749 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:22,749 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:23,817 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:23,929 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 222.
+
+2019-06-08 13:52:23,929 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.79%; precision:  99.11%; recall:  98.67%; FB1:  98.89
+
+2019-06-08 13:52:23,929 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  99.11%; recall:  98.67%; FB1:  98.89  224
+
+2019-06-08 13:52:24,029 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best dev f1 score:98.890
+2019-06-08 13:52:26,936 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - model saved
+2019-06-08 13:52:26,936 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:27,009 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:27,009 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:27,009 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:27,558 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:69 step:28/54, NER loss: 0.104830
+2019-06-08 13:52:28,063 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:28,176 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 223 phrases; correct: 221.
+
+2019-06-08 13:52:28,176 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.79%; precision:  99.10%; recall:  98.22%; FB1:  98.66
+
+2019-06-08 13:52:28,176 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  99.10%; recall:  98.22%; FB1:  98.66  223
+
+2019-06-08 13:52:28,177 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:28,248 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:28,248 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:28,248 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:29,298 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:29,411 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 220.
+
+2019-06-08 13:52:29,411 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.66%; precision:  98.21%; recall:  97.78%; FB1:  98.00
+
+2019-06-08 13:52:29,411 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.21%; recall:  97.78%; FB1:  98.00  224
+
+2019-06-08 13:52:29,411 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:29,485 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:29,485 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:29,485 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:29,826 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:71 step:20/54, NER loss: 0.106604
+2019-06-08 13:52:30,533 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:30,651 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 222.
+
+2019-06-08 13:52:30,651 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.92%; precision:  99.11%; recall:  98.67%; FB1:  98.89
+
+2019-06-08 13:52:30,817 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  99.11%; recall:  98.67%; FB1:  98.89  224
+
+2019-06-08 13:52:30,920 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best dev f1 score:98.890
+2019-06-08 13:52:33,872 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - model saved
+2019-06-08 13:52:33,872 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:33,947 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:33,947 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:33,947 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:34,999 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:35,117 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 221.
+
+2019-06-08 13:52:35,117 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.75%; precision:  98.66%; recall:  98.22%; FB1:  98.44
+
+2019-06-08 13:52:35,117 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.66%; recall:  98.22%; FB1:  98.44  224
+
+2019-06-08 13:52:35,118 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:35,191 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:35,191 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:35,192 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:35,411 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:73 step:12/54, NER loss: 0.085082
+2019-06-08 13:52:36,242 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:36,355 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 223 phrases; correct: 222.
+
+2019-06-08 13:52:36,356 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.83%; precision:  99.55%; recall:  98.67%; FB1:  99.11
+
+2019-06-08 13:52:36,356 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  99.55%; recall:  98.67%; FB1:  99.11  223
+
+2019-06-08 13:52:36,456 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best dev f1 score:99.110
+2019-06-08 13:52:39,347 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - model saved
+2019-06-08 13:52:39,347 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:39,419 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:39,419 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:39,420 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:40,468 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:40,583 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 225 phrases; correct: 221.
+
+2019-06-08 13:52:40,583 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.53%; precision:  98.22%; recall:  98.22%; FB1:  98.22
+
+2019-06-08 13:52:40,583 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.22%; recall:  98.22%; FB1:  98.22  225
+
+2019-06-08 13:52:40,583 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:40,655 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:40,655 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:40,655 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:40,726 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:75 step:4/54, NER loss: 0.095389
+2019-06-08 13:52:41,702 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:41,820 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 220.
+
+2019-06-08 13:52:41,820 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.70%; precision:  98.21%; recall:  97.78%; FB1:  98.00
+
+2019-06-08 13:52:41,820 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.21%; recall:  97.78%; FB1:  98.00  224
+
+2019-06-08 13:52:41,821 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:41,896 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:41,896 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:41,896 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:42,888 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:76 step:50/54, NER loss: 0.074154
+2019-06-08 13:52:42,959 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:43,087 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 223 phrases; correct: 221.
+
+2019-06-08 13:52:43,087 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.79%; precision:  99.10%; recall:  98.22%; FB1:  98.66
+
+2019-06-08 13:52:43,254 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  99.10%; recall:  98.22%; FB1:  98.66  223
+
+2019-06-08 13:52:43,255 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:43,333 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:43,333 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:43,333 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:44,396 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:44,512 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 223 phrases; correct: 220.
+
+2019-06-08 13:52:44,513 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.62%; precision:  98.65%; recall:  97.78%; FB1:  98.21
+
+2019-06-08 13:52:44,513 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.65%; recall:  97.78%; FB1:  98.21  223
+
+2019-06-08 13:52:44,513 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:44,586 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:44,586 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:44,586 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:45,365 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:78 step:42/54, NER loss: 0.094681
+2019-06-08 13:52:45,628 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:45,748 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 218.
+
+2019-06-08 13:52:45,748 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.53%; precision:  97.32%; recall:  96.89%; FB1:  97.10
+
+2019-06-08 13:52:45,748 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  97.32%; recall:  96.89%; FB1:  97.10  224
+
+2019-06-08 13:52:45,749 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:45,821 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:45,821 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:45,821 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:46,867 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:46,982 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 221.
+
+2019-06-08 13:52:46,982 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.87%; precision:  98.66%; recall:  98.22%; FB1:  98.44
+
+2019-06-08 13:52:46,982 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.66%; recall:  98.22%; FB1:  98.44  224
+
+2019-06-08 13:52:46,983 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:47,239 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:47,239 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:47,239 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:47,922 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:80 step:34/54, NER loss: 0.077893
+2019-06-08 13:52:48,248 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:48,358 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 223 phrases; correct: 221.
+
+2019-06-08 13:52:48,359 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.66%; precision:  99.10%; recall:  98.22%; FB1:  98.66
+
+2019-06-08 13:52:48,359 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  99.10%; recall:  98.22%; FB1:  98.66  223
+
+2019-06-08 13:52:48,359 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:48,428 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:48,428 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:48,428 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:49,432 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:49,544 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 220.
+
+2019-06-08 13:52:49,545 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.58%; precision:  98.21%; recall:  97.78%; FB1:  98.00
+
+2019-06-08 13:52:49,545 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.21%; recall:  97.78%; FB1:  98.00  224
+
+2019-06-08 13:52:49,545 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:49,614 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:49,614 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:49,614 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:50,083 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:82 step:26/54, NER loss: 0.056638
+2019-06-08 13:52:50,620 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:50,731 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 221.
+
+2019-06-08 13:52:50,731 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.75%; precision:  98.66%; recall:  98.22%; FB1:  98.44
+
+2019-06-08 13:52:50,731 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.66%; recall:  98.22%; FB1:  98.44  224
+
+2019-06-08 13:52:50,904 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:50,999 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:50,999 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:50,999 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:52,111 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:52,224 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 223 phrases; correct: 216.
+
+2019-06-08 13:52:52,224 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.37%; precision:  96.86%; recall:  96.00%; FB1:  96.43
+
+2019-06-08 13:52:52,224 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  96.86%; recall:  96.00%; FB1:  96.43  223
+
+2019-06-08 13:52:52,225 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:52,297 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:52,297 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:52,297 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:52,626 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:84 step:18/54, NER loss: 0.084626
+2019-06-08 13:52:53,340 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:53,465 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 223 phrases; correct: 218.
+
+2019-06-08 13:52:53,465 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.66%; precision:  97.76%; recall:  96.89%; FB1:  97.32
+
+2019-06-08 13:52:53,465 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  97.76%; recall:  96.89%; FB1:  97.32  223
+
+2019-06-08 13:52:53,465 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:53,538 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:53,538 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:53,538 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:54,577 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:54,692 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 221.
+
+2019-06-08 13:52:54,692 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.75%; precision:  98.66%; recall:  98.22%; FB1:  98.44
+
+2019-06-08 13:52:54,692 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.66%; recall:  98.22%; FB1:  98.44  224
+
+2019-06-08 13:52:54,858 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:54,932 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:54,932 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:54,932 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:55,086 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:86 step:10/54, NER loss: 0.053294
+2019-06-08 13:52:56,003 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:56,121 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 220.
+
+2019-06-08 13:52:56,121 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.58%; precision:  98.21%; recall:  97.78%; FB1:  98.00
+
+2019-06-08 13:52:56,121 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.21%; recall:  97.78%; FB1:  98.00  224
+
+2019-06-08 13:52:56,121 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:56,195 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:56,195 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:56,195 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:57,241 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:57,357 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 225 phrases; correct: 220.
+
+2019-06-08 13:52:57,357 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.53%; precision:  97.78%; recall:  97.78%; FB1:  97.78
+
+2019-06-08 13:52:57,358 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  97.78%; recall:  97.78%; FB1:  97.78  225
+
+2019-06-08 13:52:57,358 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:57,430 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:57,431 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:57,431 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:57,464 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:88 step:2/54, NER loss: 0.049451
+2019-06-08 13:52:58,468 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:52:58,582 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 221.
+
+2019-06-08 13:52:58,582 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.66%; precision:  98.66%; recall:  98.22%; FB1:  98.44
+
+2019-06-08 13:52:58,582 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.66%; recall:  98.22%; FB1:  98.44  224
+
+2019-06-08 13:52:58,749 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:52:58,820 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:52:58,821 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:52:58,821 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:52:59,800 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:89 step:48/54, NER loss: 0.056991
+2019-06-08 13:52:59,889 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:53:00,005 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 222.
+
+2019-06-08 13:53:00,005 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.92%; precision:  99.11%; recall:  98.67%; FB1:  98.89
+
+2019-06-08 13:53:00,005 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  99.11%; recall:  98.67%; FB1:  98.89  224
+
+2019-06-08 13:53:00,006 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:53:00,079 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:53:00,079 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:53:00,079 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:53:01,143 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:53:01,263 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 223 phrases; correct: 221.
+
+2019-06-08 13:53:01,263 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.66%; precision:  99.10%; recall:  98.22%; FB1:  98.66
+
+2019-06-08 13:53:01,263 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  99.10%; recall:  98.22%; FB1:  98.66  223
+
+2019-06-08 13:53:01,264 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:53:01,336 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:53:01,336 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:53:01,336 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:53:02,048 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:91 step:40/54, NER loss: 0.031836
+2019-06-08 13:53:02,372 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:53:02,487 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 221.
+
+2019-06-08 13:53:02,487 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.83%; precision:  98.66%; recall:  98.22%; FB1:  98.44
+
+2019-06-08 13:53:02,487 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.66%; recall:  98.22%; FB1:  98.44  224
+
+2019-06-08 13:53:02,655 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:53:02,733 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:53:02,733 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:53:02,734 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:53:03,841 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:53:03,963 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 220.
+
+2019-06-08 13:53:03,963 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.70%; precision:  98.21%; recall:  97.78%; FB1:  98.00
+
+2019-06-08 13:53:03,963 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.21%; recall:  97.78%; FB1:  98.00  224
+
+2019-06-08 13:53:03,963 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:53:04,037 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:53:04,037 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:53:04,037 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:53:04,675 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:93 step:32/54, NER loss: 0.047187
+2019-06-08 13:53:05,082 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:53:05,200 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 223 phrases; correct: 222.
+
+2019-06-08 13:53:05,200 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.83%; precision:  99.55%; recall:  98.67%; FB1:  99.11
+
+2019-06-08 13:53:05,200 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  99.55%; recall:  98.67%; FB1:  99.11  223
+
+2019-06-08 13:53:05,200 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:53:05,272 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:53:05,272 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:53:05,272 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:53:06,318 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:53:06,436 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 225 phrases; correct: 221.
+
+2019-06-08 13:53:06,436 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.75%; precision:  98.22%; recall:  98.22%; FB1:  98.22
+
+2019-06-08 13:53:06,436 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.22%; recall:  98.22%; FB1:  98.22  225
+
+2019-06-08 13:53:06,437 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:53:06,674 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 116.
+
+2019-06-08 13:53:06,674 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.84%; precision:  99.15%; recall:  99.15%; FB1:  99.15
+
+2019-06-08 13:53:06,675 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  99.15%; recall:  99.15%; FB1:  99.15  117
+
+2019-06-08 13:53:07,113 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:95 step:24/54, NER loss: 0.068418
+2019-06-08 13:53:07,745 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:53:07,862 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 222.
+
+2019-06-08 13:53:07,862 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.92%; precision:  99.11%; recall:  98.67%; FB1:  98.89
+
+2019-06-08 13:53:07,862 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  99.11%; recall:  98.67%; FB1:  98.89  224
+
+2019-06-08 13:53:07,863 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:53:07,936 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:53:07,936 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:53:07,936 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:53:08,989 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:53:09,107 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 221.
+
+2019-06-08 13:53:09,107 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.75%; precision:  98.66%; recall:  98.22%; FB1:  98.44
+
+2019-06-08 13:53:09,108 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.66%; recall:  98.22%; FB1:  98.44  224
+
+2019-06-08 13:53:09,108 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:53:09,179 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:53:09,179 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:53:09,179 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:53:09,425 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:97 step:16/54, NER loss: 0.059573
+2019-06-08 13:53:10,231 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:53:10,350 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 223 phrases; correct: 220.
+
+2019-06-08 13:53:10,350 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.62%; precision:  98.65%; recall:  97.78%; FB1:  98.21
+
+2019-06-08 13:53:10,350 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  98.65%; recall:  97.78%; FB1:  98.21  223
+
+2019-06-08 13:53:10,522 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:53:10,595 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:53:10,595 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:53:10,595 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:53:11,674 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:53:11,790 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 222.
+
+2019-06-08 13:53:11,790 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.92%; precision:  99.11%; recall:  98.67%; FB1:  98.89
+
+2019-06-08 13:53:11,790 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  99.11%; recall:  98.67%; FB1:  98.89  224
+
+2019-06-08 13:53:11,791 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:53:11,862 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:53:11,862 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:53:11,862 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:53:12,002 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:99 step:8/54, NER loss: 0.051928
+2019-06-08 13:53:12,910 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:53:13,026 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 223 phrases; correct: 221.
+
+2019-06-08 13:53:13,026 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.66%; precision:  99.10%; recall:  98.22%; FB1:  98.66
+
+2019-06-08 13:53:13,026 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  99.10%; recall:  98.22%; FB1:  98.66  223
+
+2019-06-08 13:53:13,027 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:53:13,101 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:53:13,101 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:53:13,101 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 13:53:14,142 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - iteration:101 step:0/54, NER loss: 0.044894
+2019-06-08 13:53:14,142 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:dev
+2019-06-08 13:53:14,265 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 2363 tokens with 225 phrases; found: 224 phrases; correct: 223.
+
+2019-06-08 13:53:14,265 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy:  99.96%; precision:  99.55%; recall:  99.11%; FB1:  99.33
+
+2019-06-08 13:53:14,265 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision:  99.55%; recall:  99.11%; FB1:  99.33  224
+
+2019-06-08 13:53:14,537 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - new best dev f1 score:99.330
+2019-06-08 13:53:17,334 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - model saved
+2019-06-08 13:53:17,334 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - evaluate:test
+2019-06-08 13:53:17,409 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - processed 1233 tokens with 117 phrases; found: 117 phrases; correct: 117.
+
+2019-06-08 13:53:17,409 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO - accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+
+2019-06-08 13:53:17,409 - D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/train.log - INFO -               INF: precision: 100.00%; recall: 100.00%; FB1: 100.00  117
+
+2019-06-08 14:51:38,037 - D:\SUFE\ComputerContest_BigData\EMR_coding\ChineseNER_master/train.log - INFO - Reading model parameters from D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/ckpt\ner.ckpt
+2019-06-08 14:52:25,649 - D:\SUFE\ComputerContest_BigData\EMR_coding\ChineseNER_master/train.log - INFO - Reading model parameters from D:/SUFE/ComputerContest_BigData/EMR_coding/ChineseNER_master/ckpt\ner.ckpt
