@@ -116,7 +116,6 @@
 					<tbody>
 						{% for row in entries %}
 						    <tr>
-                                <td>{{ loop.index}} </td>
 							{% for column in row %}
 							    <td width="40px">{{column}}</td>
 							{% endfor %}
@@ -489,6 +488,7 @@
 				<div class="modal-content">
 					<div class="modal-header">
 						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+							&times;
 							&times;
 						</button>
 						<h4 class="modal-title prompt">
