@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a402df60-1fae-468a-a7e3-4bacfb8c0145" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/templates/records.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/records.html" afterDir="false" />
-    </list>
+    <list default="true" id="a402df60-1fae-468a-a7e3-4bacfb8c0145" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,8 +49,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7">
-              <caret line="267" column="24" lean-forward="true" selection-start-line="267" selection-start-column="24" selection-end-line="267" selection-end-column="24" />
+            <state relative-caret-position="-64">
+              <caret line="198" column="17" selection-start-line="198" selection-start-column="13" selection-end-line="198" selection-end-column="17" />
               <folding>
                 <element signature="e#14#28#0" expanded="true" />
               </folding>
@@ -63,8 +61,8 @@
       <file leaf-file-name="records.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/records.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="393" column="33" selection-start-line="393" selection-start-column="33" selection-end-line="393" selection-end-column="33" />
+            <state relative-caret-position="62">
+              <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
               <folding>
                 <element signature="e#15891#15898#0#HTML" expanded="true" />
               </folding>
@@ -75,8 +73,8 @@
       <file leaf-file-name="images.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/images.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="57" column="35" selection-start-line="57" selection-start-column="35" selection-end-line="57" selection-end-column="35" />
+            <state relative-caret-position="198">
+              <caret line="62" column="34" lean-forward="true" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -503,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559984084251</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="indexs added">
+      <created>1559984500057</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1559984500057</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -923,8 +928,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7">
-          <caret line="267" column="24" lean-forward="true" selection-start-line="267" selection-start-column="24" selection-end-line="267" selection-end-column="24" />
+        <state relative-caret-position="-64">
+          <caret line="198" column="17" selection-start-line="198" selection-start-column="13" selection-end-line="198" selection-end-column="17" />
           <folding>
             <element signature="e#14#28#0" expanded="true" />
           </folding>
@@ -933,15 +938,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/images.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="57" column="35" selection-start-line="57" selection-start-column="35" selection-end-line="57" selection-end-column="35" />
+        <state relative-caret-position="198">
+          <caret line="62" column="34" lean-forward="true" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/records.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="393" column="33" selection-start-line="393" selection-start-column="33" selection-end-line="393" selection-end-column="33" />
+        <state relative-caret-position="62">
+          <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
           <folding>
             <element signature="e#15891#15898#0#HTML" expanded="true" />
           </folding>
