@@ -280,6 +280,7 @@ def my_evaluate_line(value_df):
                     values = [i.replace(' ', '') for i in values]
                     values = [i.replace('（', '') for i in values]
                     values = [i.replace('）', '') for i in values]
+                    values = [i.replace('、', '') for i in values]
 
 
                     str='，'.join(values)

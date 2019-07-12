@@ -351,14 +351,18 @@ def get_value_df(to_encoding,split_df_path='split_df.csv',value_df_path='value_d
         # x_sort=list(set(x))
         # x_sort.sort(key=x.index)
         # x=x_sort
-        str = x[0]
-        if len(x) > 1:
-            for i in range(len(x)):
-                if i == 0:
-                    continue
-                str += '，'
-                str += x[i]
-        return str
+
+        x=[i.replace(' ','') for i in x]
+        return '，'.join(x)
+
+        # str = x[0]
+        # if len(x) > 1:
+        #     for i in range(len(x)):
+        #         if i == 0:
+        #             continue
+        #         str += '，'
+        #         str += x[i]
+        # return str
 
     split_df['转移比例']=split_df['转移比例'].apply(get_Transfer_ratio)
 
