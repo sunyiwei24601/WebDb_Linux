@@ -32,7 +32,7 @@
 
 ​	The system implement codes is under the folder `.\ComputerContest_BigData_EMR\`.
 
-​	 In this system, our purpose is to transfer data from Natural Language Records into Stucture data:
+​	 In this system, our purpose is to transfer data from Natural Language Records into Structure data:
 
 > ”直肠癌根治标本”中分化腺癌，隆起型，瘤体大小3.5×3.5×2.0cm，浸润至肠壁肌层，脉管及神经未见明确癌侵犯。肠管两切端、基底切缘均未见癌累及。肠旁淋巴结15枚，未见癌转移。
 
@@ -40,7 +40,7 @@
 
 ![1568689698104](README.assets/1568689698104.png)
 
-​	We recognize the meaning of  different diagnosis segments, and rearrange them into different attributes. To achieve this, we use two general class of measures of recognization after preprocessing the data.  
+​	We recognize the meanings of  different diagnosis segments, and rearrange them into different attributes. To achieve this, we use two general class of recognization measures after preprocessing the data.  
 
 ​	First one is basic **regex processing**. Some part of the record is quite easy to recognize Because they have distinct features. For instance, the size of cancer is always written as forms like "3x3x2 cm", which is easy to be selected from. On the other side, some of the attributes have really limited types of values, we can get the total sets of them by consulting medical expertise.The corresponding codes is under `get_split.py`.
 
@@ -49,8 +49,6 @@
 ## Website Visualization Implement
 
 ​	To visualize and show our performance, I choose to build a website based on Flask which is easily accessible. I use Bootstrap elements to design the Html website and store data into database by sql. All the data visualization and edition are realized through transforming users' request into local SQL instructions.
-<<<<<<< HEAD
-=======
 
 ​	The main UI and interation implement codes is in `views.py` and `\template\records.html`. And the sql parts are `dbHandler.py` , `dataHandler.py`, `sql.py`. 
 
@@ -64,7 +62,6 @@
 6. Users can also insert, delete, edit records instantly on website which can be transfered into different sql instructions. After modification, the website will reload the page.
 
 I also build a visualization function to show proportions of different types in one attributes.
->>>>>>> 0c19a5f75847ca0b353fec203f6836034c3733bd
 
 ​	The main UI and interation implement codes is in `views.py` and `\template\records.html`. And the sql parts are `dbHandler.py` , `dataHandler.py`, `sql.py`. 
 
@@ -78,3 +75,5 @@ I also build a visualization function to show proportions of different types in 
 6. Users can also insert, delete, edit records instantly on website which can be transfered into different sql instructions. After modification, the website will reload the page.
 
 I also build a visualization function to show proportions of different types in one attributes.
+
+![1568693192459](README.assets/1568693192459.png)
