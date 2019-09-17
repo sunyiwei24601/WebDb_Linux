@@ -24,9 +24,9 @@
 * jieba==0.39
 * tensorflow==1.8.0
 
-​     Of course the codes can run on  Linux/Unix System which satisfies the requirements above, But if you just want to have a glance at the project, I really recommend you to visit http://120.79.71.189:5000/records/ in case there are some techinical reasons which bring about bugs.
+​     Of course you can use `python run.py` to run the codes on a  Linux/Unix System which satisfies the requirements above, But if you just want to have a glance at the project, I really recommend you to visit http://120.79.71.189:5000/records/ in case there are some techinical reasons which bring about bugs.
 
-**Since the Server is in China, loading page may cost a lot of time than expected. I beg your forgiveness and patience.**
+**Since the Server is located in China, loading page may cost a lot of time than expected. I beg your forgiveness and patience.**
 
 ## EMR Processing System
 
@@ -48,5 +48,19 @@
 
 ## Website Visualization Implement
 
-​	
+​	To visualize and show our performance, I choose to build a website based on Flask which is easily accessible. I use Bootstrap elements to design the Html website and store data into database by sql. All the data visualization and edition are realized through transforming users' request into local SQL instructions.
 
+​	The main UI and interation implement codes is in `views.py` and `\template\records.html`. And the sql parts are `dbHandler.py` , `dataHandler.py`, `sql.py`. 
+
+### Interface procedure
+
+1. Users can upload local data file to website which will be transformed to server.
+2. The server recognize the file type and encoding format and transfer into standard csv.
+3. The EMR Processing System precess the data and output the results into .csv file.
+4. Sql elements read the csv file and store them in sql database.
+5. The Flask frame loads data from database through sql instructions and visualize data on a table.
+6. Users can also insert, delete, edit records instantly on website which can be transfered into different sql instructions. After modification, the website will reload the page.
+
+I also build a visualization function to show proportions of different types in one attributes.
+
+![1568692639456](README.assets/1568692639456.png)
