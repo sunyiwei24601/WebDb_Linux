@@ -24,13 +24,29 @@
 * jieba==0.39
 * tensorflow==1.8.0
 
-Of course the codes can run on  Linux/Unix System which satisfies the requirements above, But if you just want to have a glance at the project, I really recommend you to visit http://120.79.71.189:5000/records/ in case there are some techinical reasons which bring about bugs.
+​     Of course the codes can run on  Linux/Unix System which satisfies the requirements above, But if you just want to have a glance at the project, I really recommend you to visit http://120.79.71.189:5000/records/ in case there are some techinical reasons which bring about bugs.
 
-Since the Server is in China, loading page may cost a lot of time than expected. I beg your forgiveness and patience.
+**Since the Server is in China, loading page may cost a lot of time than expected. I beg your forgiveness and patience.**
 
 ## EMR Processing System
 
+​	The system implement codes is under the folder `.\ComputerContest_BigData_EMR\`.
 
+​	 In this system, our purpose is to transfer data from Natural Language Records into Stucture data:
+
+> ”直肠癌根治标本”中分化腺癌，隆起型，瘤体大小3.5×3.5×2.0cm，浸润至肠壁肌层，脉管及神经未见明确癌侵犯。肠管两切端、基底切缘均未见癌累及。肠旁淋巴结15枚，未见癌转移。
+
+:arrow_double_down:
+
+![1568689698104](README.assets/1568689698104.png)
+
+​	We recognize the meaning of  different diagnosis segments, and rearrange them into different attributes. To achieve this, we use two general class of measures of recognization after preprocessing the data.  
+
+​	First one is basic **regex processing**. Some part of the record is quite easy to recognize Because they have distinct features. For instance, the size of cancer is always written as forms like "3x3x2 cm", which is easy to be selected from. On the other side, some of the attributes have really limited types of values, we can get the total sets of them by consulting medical expertise.The corresponding codes is under `get_split.py`.
+
+​	But there is still some problems we can't solve such as the sample type. There may be unlimited types of sample which we can't enumerate.  We use Chinese **NER model with Deep Learning** to recognize different semantic elements of a sentence and get the output whose comprehensive precision is over 90%. The implement code is under `\ChineseNER_master\"`Folder.
 
 ## Website Visualization Implement
+
+​	
 
