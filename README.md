@@ -49,6 +49,8 @@
 ## Website Visualization Implement
 
 ​	To visualize and show our performance, I choose to build a website based on Flask which is easily accessible. I use Bootstrap elements to design the Html website and store data into database by sql. All the data visualization and edition are realized through transforming users' request into local SQL instructions.
+<<<<<<< HEAD
+=======
 
 ​	The main UI and interation implement codes is in `views.py` and `\template\records.html`. And the sql parts are `dbHandler.py` , `dataHandler.py`, `sql.py`. 
 
@@ -62,5 +64,17 @@
 6. Users can also insert, delete, edit records instantly on website which can be transfered into different sql instructions. After modification, the website will reload the page.
 
 I also build a visualization function to show proportions of different types in one attributes.
+>>>>>>> 0c19a5f75847ca0b353fec203f6836034c3733bd
 
-![1568692639456](README.assets/1568692639456.png)
+​	The main UI and interation implement codes is in `views.py` and `\template\records.html`. And the sql parts are `dbHandler.py` , `dataHandler.py`, `sql.py`. 
+
+### Interface procedure
+
+1. Users can upload local data file to website which will be transformed to server.
+2. The server recognize the file type and encoding format and transfer into standard csv.
+3. The EMR Processing System precess the data and output the results into .csv file.
+4. Sql elements read the csv file and store them in sql database.
+5. The Flask frame loads data from database through sql instructions and visualize data on a table.
+6. Users can also insert, delete, edit records instantly on website which can be transfered into different sql instructions. After modification, the website will reload the page.
+
+I also build a visualization function to show proportions of different types in one attributes.
